@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>BriefBot</title>
+        <description>Brexit, explained</description>
+        <link>https://briefbot.github.io/</link>
+        <lastBuildDate>Thu, 20 Oct 2016 23:00:00 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <image>
+            <title>BriefBot</title>
+            <url>http://example.com/image.png</url>
+            <link>https://briefbot.github.io/</link>
+        </image>
+        <copyright>All rights reserved 2016, Explaain</copyright>
+        <generator>Feed for Node.js</generator>
+        <item>
+            <title><![CDATA[The Labour Leadership Election Result Will Follow These 8 Ridiculous Moments]]></title>
+            <link>http://www.huffingtonpost.co.uk/2016/09/21/the-labour-leadership-election-result-will-follow-these-8-ridiculous-moments_n_12121724.html?utm_hp_ref=uk-politics&amp;ir=UK+Politics</link>
+            <guid>http://www.huffingtonpost.co.uk/2016/09/21/the-labour-leadership-election-result-will-follow-these-8-ridiculous-moments_n_12121724.html?utm_hp_ref=uk-politics&amp;ir=UK+Politics</guid>
+        </item>
+        <item>
+            <title><![CDATA[Online Voting Necessary For True Digital Democracy]]></title>
+            <link>http://www.huffingtonpost.co.uk/ian-brook/online-voting-necessary-f_b_12086826.html?utm_hp_ref=uk-politics&amp;ir=UK+Politics</link>
+            <guid>http://www.huffingtonpost.co.uk/ian-brook/online-voting-necessary-f_b_12086826.html?utm_hp_ref=uk-politics&amp;ir=UK+Politics</guid>
+        </item>
+        <item>
+            <title><![CDATA[One Radical Reform To Help Corbyn Or Smith Rebuild Labour's Links To Business]]></title>
+            <link>http://www.huffingtonpost.co.uk/simon-pitkeathley/one-radical-reform-to-hel_b_12098526.html?utm_hp_ref=uk-politics&amp;ir=UK+Politics</link>
+            <guid>http://www.huffingtonpost.co.uk/simon-pitkeathley/one-radical-reform-to-hel_b_12098526.html?utm_hp_ref=uk-politics&amp;ir=UK+Politics</guid>
+        </item>
+        <item>
+            <title><![CDATA[Some Hard Lesson For US Democrats From Brexit]]></title>
+            <link>http://www.huffingtonpost.co.uk/jackie-kemp/brexit-us-election_b_12120260.html?utm_hp_ref=uk-politics&amp;ir=UK+Politics</link>
+            <guid>http://www.huffingtonpost.co.uk/jackie-kemp/brexit-us-election_b_12120260.html?utm_hp_ref=uk-politics&amp;ir=UK+Politics</guid>
+        </item>
+        <item>
+            <title><![CDATA[Can Corbyn Surprise Us By Uniting Labour?]]></title>
+            <link>http://www.huffingtonpost.co.uk/mike-obrien1/jeremy-corbyn-labour-unity_b_12118700.html?utm_hp_ref=uk-politics&amp;ir=UK+Politics</link>
+            <guid>http://www.huffingtonpost.co.uk/mike-obrien1/jeremy-corbyn-labour-unity_b_12118700.html?utm_hp_ref=uk-politics&amp;ir=UK+Politics</guid>
+        </item>
+        <item>
+            <title><![CDATA[Jeremy Corbyn Vows To 'Wipe The Slate Clean' With Hostile Labour MPs]]></title>
+            <link>http://www.huffingtonpost.co.uk/2016/09/21/jeremy-corbyn-labour-leadership-mps_n_12119956.html?utm_hp_ref=uk-politics&amp;ir=UK+Politics</link>
+            <guid>http://www.huffingtonpost.co.uk/2016/09/21/jeremy-corbyn-labour-leadership-mps_n_12119956.html?utm_hp_ref=uk-politics&amp;ir=UK+Politics</guid>
+        </item>
+        <item>
+            <title><![CDATA[The Lib Dem Press Office And 17 Times It Was The Most Entertaining Thing In British Politics]]></title>
+            <link>http://www.huffingtonpost.co.uk/2016/09/21/the-lib-dem-press-office_n_12118424.html?utm_hp_ref=uk-politics&amp;ir=UK+Politics</link>
+            <guid>http://www.huffingtonpost.co.uk/2016/09/21/the-lib-dem-press-office_n_12118424.html?utm_hp_ref=uk-politics&amp;ir=UK+Politics</guid>
+        </item>
+        <item>
+            <title><![CDATA[Labour NEC Report, 20th September 2016]]></title>
+            <link>http://www.huffingtonpost.co.uk/alice-perry/labour-nec-report-20th-se_b_12116132.html?utm_hp_ref=uk-politics&amp;ir=UK+Politics</link>
+            <guid>http://www.huffingtonpost.co.uk/alice-perry/labour-nec-report-20th-se_b_12116132.html?utm_hp_ref=uk-politics&amp;ir=UK+Politics</guid>
+        </item>
+        <item>
+            <title><![CDATA[Brexit will smooth Trump's path to U.S. presidency - Farage]]></title>
+            <link>http://feeds.reuters.com/~r/Reuters/UKTopNews/~3/JANj6D44I3k/uk-britain-eu-farage-trump-idUKKCN11R2AT</link>
+            <guid>http://feeds.reuters.com/~r/Reuters/UKTopNews/~3/JANj6D44I3k/uk-britain-eu-farage-trump-idUKKCN11R2AT</guid>
+        </item>
+        <item>
+            <title><![CDATA[Boat carrying 600 migrants sinks off Egypt, killing at least 43]]></title>
+            <link>http://feeds.reuters.com/~r/Reuters/UKTopNews/~3/KE1UsP80agc/uk-europe-migrants-egypt-idUKKCN11R1L4</link>
+            <guid>http://feeds.reuters.com/~r/Reuters/UKTopNews/~3/KE1UsP80agc/uk-europe-migrants-egypt-idUKKCN11R1L4</guid>
+        </item>
+        <item>
+            <title><![CDATA[UK indicating Brexit talks could start in January, February - Irish PM]]></title>
+            <link>http://feeds.reuters.com/~r/Reuters/UKTopNews/~3/92S26j-ZOO8/uk-britain-eu-ireland-idUKKCN11R1M7</link>
+            <guid>http://feeds.reuters.com/~r/Reuters/UKTopNews/~3/92S26j-ZOO8/uk-britain-eu-ireland-idUKKCN11R1M7</guid>
+        </item>
+        <item>
+            <title><![CDATA[Ignore the naysayers. America can handle 110,000 more refugees | Aryeh Neier]]></title>
+            <link>https://www.theguardian.com/commentisfree/2016/sep/16/obama-refugees-increase-proposal-us-capable-resettling</link>
+            <guid>https://www.theguardian.com/commentisfree/2016/sep/16/obama-refugees-increase-proposal-us-capable-resettling</guid>
+        </item>
+        <item>
+            <title><![CDATA[I was a well-paid European expat. Now I am undocumented | Anonymous]]></title>
+            <link>https://www.theguardian.com/commentisfree/2016/sep/13/how-i-got-here-european-expat-us-undocumented-worker</link>
+            <guid>https://www.theguardian.com/commentisfree/2016/sep/13/how-i-got-here-european-expat-us-undocumented-worker</guid>
+        </item>
+        <item>
+            <title><![CDATA[The Guardian view on the New York declaration: better than nothing | Editorial]]></title>
+            <link>https://www.theguardian.com/commentisfree/2016/sep/19/the-guardian-view-on-the-new-york-declaration-better-than-nothing</link>
+            <guid>https://www.theguardian.com/commentisfree/2016/sep/19/the-guardian-view-on-the-new-york-declaration-better-than-nothing</guid>
+        </item>
+        <item>
+            <title><![CDATA[The Guardian view on Europe: Britain will be outside looking in | Editorial]]></title>
+            <link>https://www.theguardian.com/commentisfree/2016/sep/14/the-guardian-view-on-europe-britain-will-be-outside-looking-in</link>
+            <guid>https://www.theguardian.com/commentisfree/2016/sep/14/the-guardian-view-on-europe-britain-will-be-outside-looking-in</guid>
+        </item>
+    </channel>
+</rss>

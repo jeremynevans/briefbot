@@ -11,7 +11,12 @@
   },
   "dependencies": {
     "ejs": "2.4.1",
-    "express": "4.13.3"
+    "express": "4.13.3",
+    "feed": "^0.3.0",
+    "feed-read": "0.0.1",
+    "fs": "0.0.1-security",
+    "replaceall": "^0.1.6",
+    "xmlbuilder": "^8.2.2"
   },
   "repository": {
     "type": "git",
