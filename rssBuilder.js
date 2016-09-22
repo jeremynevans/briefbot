@@ -7,6 +7,8 @@ var feedList = [
     'http://www.independent.co.uk/news/uk/rss',
     'https://www.theguardian.com/uk/rss',
     'http://www.telegraph.co.uk/news/rss.xml',
+    'http://feeds.bbci.co.uk/news/rss.xml?edition=uk',
+    'http://www.mirror.co.uk/news/rss.xml',
     // 'http://feeds.reuters.com/reuters/UKTopNews',
     // 'http://www.theweek.co.uk/feeds/all',
     'http://feeds.skynews.com/feeds/rss/home.xml',
