@@ -4,13 +4,13 @@ var Feed = require("feed");
 var fs = require('fs');
 
 var feedList = [
-    'http://www.independent.co.uk/voices/comment/rss',
+    'http://www.independent.co.uk/news/uk/rss',
     'https://www.theguardian.com/uk/rss',
-    'http://www.telegraph.co.uk/comment/telegraph-view/rss',
-    'http://feeds.reuters.com/reuters/UKTopNews',
+    'http://www.telegraph.co.uk/news/rss.xml',
+    // 'http://feeds.reuters.com/reuters/UKTopNews',
     // 'http://www.theweek.co.uk/feeds/all',
     'http://feeds.skynews.com/feeds/rss/home.xml',
-    'http://www.huffingtonpost.co.uk/feeds/verticals/uk-politics/index.xml'
+    // 'http://www.huffingtonpost.co.uk/feeds/verticals/uk-politics/index.xml'
   ];
 
 var keywords = [
