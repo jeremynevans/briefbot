@@ -9,7 +9,7 @@ var feedList = [
     'http://www.telegraph.co.uk/news/rss.xml',
     'http://feeds.bbci.co.uk/news/rss.xml?edition=uk',
     'http://www.mirror.co.uk/news/rss.xml',
-    'http://www.spectator.co.uk/feed/',
+    // 'http://www.spectator.co.uk/feed/',
     // 'http://feeds.reuters.com/reuters/UKTopNews',
     // 'http://www.theweek.co.uk/feeds/all',
     'http://feeds.skynews.com/feeds/rss/home.xml',
@@ -18,8 +18,6 @@ var feedList = [
 
 var keywords = [
   'brexit',
-  'europe',
-  'european',
   'european union'
 ];
 var finalArticles = [];
@@ -30,7 +28,6 @@ var feed = new Feed({
     link:        'https://briefbot.github.io/',
     image:       'http://example.com/image.png',
     copyright:   'All rights reserved 2016, Explaain',
-    updated:     new Date(2016, 09, 21),                // optional, default = today
 
     author: {
         name:    'BriefBot',
@@ -92,8 +89,11 @@ var cleanArticle = function(article) {
   return article;
 }
 
-var addKeyword = function(tags, keyword) {
+var addKeyword = function(tags, keyword, inTitle) {
   tags.count++;
+  if (inTitle) {
+    tags.count++;
+  }
   if (tags.list.indexOf(keyword) == -1) {
     tags.list.push(keyword);
   }
@@ -108,14 +108,18 @@ var articleRelevant = function(article) {
   };
   for (i in keywords) {
     var keyword = keywords[i];
-    if(article.title.toLowerCase().indexOf(keyword) >= 0 || article.content.toLowerCase().indexOf(keyword) >= 0) {
+    if(article.title.toLowerCase().indexOf(keyword) >= 0) {
       relevant = true;
-      article.tags = addKeyword(article.tags, keyword);
+      article.tags = addKeyword(article.tags, keyword, true);
+    }
+    if(article.content.toLowerCase().indexOf(keyword) >= 0) {
+      relevant = true;
+      article.tags = addKeyword(article.tags, keyword, false);
     }
   };
-  if (article.tags.count < 2) {
-    relevant = false;
-  }
+  // if (article.tags.count < 2) {
+  //   relevant = false;
+  // }
   return relevant;
 };
 
