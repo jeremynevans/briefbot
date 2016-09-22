@@ -89,16 +89,30 @@ var cleanArticle = function(article) {
   return article;
 }
 
+var addKeyword = function(tags, keyword) {
+  tags.count++;
+  if (tags.list.indexOf(keyword) == -1) {
+    tags.list.push(keyword);
+  }
+  return tags;
+};
+
 var articleRelevant = function(article) {
   var relevant = false;
-  article.tags = [];
+  article.tags = {
+    count: 0,
+    list: []
+  };
   for (i in keywords) {
     var keyword = keywords[i];
     if(article.title.toLowerCase().indexOf(keyword) >= 0 || article.content.toLowerCase().indexOf(keyword) >= 0) {
       relevant = true;
-      article.tags.push(keyword);
+      article.tags = addKeyword(article.tags, keyword);
     }
   };
+  if (article.tags.count < 2) {
+    relevant = false;
+  }
   return relevant;
 };
 
