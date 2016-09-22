@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>BriefBot</title>
         <description>Brexit, explained</description>
@@ -14,79 +14,656 @@
         <copyright>All rights reserved 2016, Explaain</copyright>
         <generator>Feed for Node.js</generator>
         <item>
-            <title><![CDATA[The Labour Leadership Election Result Will Follow These 8 Ridiculous Moments]]></title>
-            <link>http://www.huffingtonpost.co.uk/2016/09/21/the-labour-leadership-election-result-will-follow-these-8-ridiculous-moments_n_12121724.html?utm_hp_ref=uk-politics&amp;ir=UK+Politics</link>
-            <guid>http://www.huffingtonpost.co.uk/2016/09/21/the-labour-leadership-election-result-will-follow-these-8-ridiculous-moments_n_12121724.html?utm_hp_ref=uk-politics&amp;ir=UK+Politics</guid>
+            <title><![CDATA[Boat carrying 600 migrants sinks off Egypt, killing at least 43]]></title>
+            <link>http://feeds.reuters.com/~r/Reuters/UKTopNews/~3/KE1UsP80agc/uk-europe-migrants-egypt-idUKKCN11R1L4</link>
+            <guid>http://feeds.reuters.com/~r/Reuters/UKTopNews/~3/KE1UsP80agc/uk-europe-migrants-egypt-idUKKCN11R1L4</guid>
+            <pubDate>Wed, 21 Sep 2016 21:52:10 GMT</pubDate>
+            <content:encoded><![CDATA[BURG RASHID, Egypt (Reuters) - A boat carrying almost 600 people capsized off Egypt's coast on Wednesday, killing at least 43, in the latest disaster among migrants trying to reach Europe.<div class="feedflare"> <a href="http://feeds.reuters.com/~ff/Reuters/UKTopNews?a=KE1UsP80agc:lnU2tgQyeHs:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/Reuters/UKTopNews?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.reuters.com/~ff/Reuters/UKTopNews?a=KE1UsP80agc:lnU2tgQyeHs:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/Reuters/UKTopNews?i=KE1UsP80agc:lnU2tgQyeHs:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.reuters.com/~ff/Reuters/UKTopNews?a=KE1UsP80agc:lnU2tgQyeHs:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/Reuters/UKTopNews?i=KE1UsP80agc:lnU2tgQyeHs:V_sGLiPBpWU" border="0"></img></a> </div><img src="http://feeds.feedburner.com/~r/Reuters/UKTopNews/~4/KE1UsP80agc" height="1" width="1" alt=""/>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Online Voting Necessary For True Digital Democracy]]></title>
-            <link>http://www.huffingtonpost.co.uk/ian-brook/online-voting-necessary-f_b_12086826.html?utm_hp_ref=uk-politics&amp;ir=UK+Politics</link>
-            <guid>http://www.huffingtonpost.co.uk/ian-brook/online-voting-necessary-f_b_12086826.html?utm_hp_ref=uk-politics&amp;ir=UK+Politics</guid>
-        </item>
-        <item>
-            <title><![CDATA[One Radical Reform To Help Corbyn Or Smith Rebuild Labour's Links To Business]]></title>
-            <link>http://www.huffingtonpost.co.uk/simon-pitkeathley/one-radical-reform-to-hel_b_12098526.html?utm_hp_ref=uk-politics&amp;ir=UK+Politics</link>
-            <guid>http://www.huffingtonpost.co.uk/simon-pitkeathley/one-radical-reform-to-hel_b_12098526.html?utm_hp_ref=uk-politics&amp;ir=UK+Politics</guid>
-        </item>
-        <item>
-            <title><![CDATA[Some Hard Lesson For US Democrats From Brexit]]></title>
-            <link>http://www.huffingtonpost.co.uk/jackie-kemp/brexit-us-election_b_12120260.html?utm_hp_ref=uk-politics&amp;ir=UK+Politics</link>
-            <guid>http://www.huffingtonpost.co.uk/jackie-kemp/brexit-us-election_b_12120260.html?utm_hp_ref=uk-politics&amp;ir=UK+Politics</guid>
-        </item>
-        <item>
-            <title><![CDATA[Can Corbyn Surprise Us By Uniting Labour?]]></title>
-            <link>http://www.huffingtonpost.co.uk/mike-obrien1/jeremy-corbyn-labour-unity_b_12118700.html?utm_hp_ref=uk-politics&amp;ir=UK+Politics</link>
-            <guid>http://www.huffingtonpost.co.uk/mike-obrien1/jeremy-corbyn-labour-unity_b_12118700.html?utm_hp_ref=uk-politics&amp;ir=UK+Politics</guid>
-        </item>
-        <item>
-            <title><![CDATA[Jeremy Corbyn Vows To 'Wipe The Slate Clean' With Hostile Labour MPs]]></title>
-            <link>http://www.huffingtonpost.co.uk/2016/09/21/jeremy-corbyn-labour-leadership-mps_n_12119956.html?utm_hp_ref=uk-politics&amp;ir=UK+Politics</link>
-            <guid>http://www.huffingtonpost.co.uk/2016/09/21/jeremy-corbyn-labour-leadership-mps_n_12119956.html?utm_hp_ref=uk-politics&amp;ir=UK+Politics</guid>
-        </item>
-        <item>
-            <title><![CDATA[The Lib Dem Press Office And 17 Times It Was The Most Entertaining Thing In British Politics]]></title>
-            <link>http://www.huffingtonpost.co.uk/2016/09/21/the-lib-dem-press-office_n_12118424.html?utm_hp_ref=uk-politics&amp;ir=UK+Politics</link>
-            <guid>http://www.huffingtonpost.co.uk/2016/09/21/the-lib-dem-press-office_n_12118424.html?utm_hp_ref=uk-politics&amp;ir=UK+Politics</guid>
-        </item>
-        <item>
-            <title><![CDATA[Labour NEC Report, 20th September 2016]]></title>
-            <link>http://www.huffingtonpost.co.uk/alice-perry/labour-nec-report-20th-se_b_12116132.html?utm_hp_ref=uk-politics&amp;ir=UK+Politics</link>
-            <guid>http://www.huffingtonpost.co.uk/alice-perry/labour-nec-report-20th-se_b_12116132.html?utm_hp_ref=uk-politics&amp;ir=UK+Politics</guid>
+            <title><![CDATA[FA: Brexit will not derail plans to host final stages of Euro 2020 or 2028 bid]]></title>
+            <link>https://www.theguardian.com/football/2016/sep/21/brexit-will-not-derail-plans-host-final-stages-euro-2020-2028</link>
+            <guid>https://www.theguardian.com/football/2016/sep/21/brexit-will-not-derail-plans-host-final-stages-euro-2020-2028</guid>
+            <pubDate>Wed, 21 Sep 2016 20:23:20 GMT</pubDate>
+            <content:encoded><![CDATA[• FA’s Martin Glenn says vote to leave EU will not affect hosting of 2020 games<br />• Chairman Greg Clarke says FA is reaching out to friends in Uefa over 2028 bid<p>The Football Association has insisted Brexit will not derail its plans to hold the final stages of Euro 2020 at Wembley, hoping it will act as precursor to an England bid to host the 2028 European Championship.</p><p>Since the FA won the right to stage the 2020 semi-finals and final at Wembley as one of 12 venues for the tournament, which will be scattered across Europe under a plan drawn up by the former Uefa president Michel Platini, the UK has voted to leave the European Union.</p> <a href="https://www.theguardian.com/football/2016/sep/21/brexit-will-not-derail-plans-host-final-stages-euro-2020-2028">Continue reading...</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Brexit will smooth Trump's path to U.S. presidency - Farage]]></title>
             <link>http://feeds.reuters.com/~r/Reuters/UKTopNews/~3/JANj6D44I3k/uk-britain-eu-farage-trump-idUKKCN11R2AT</link>
             <guid>http://feeds.reuters.com/~r/Reuters/UKTopNews/~3/JANj6D44I3k/uk-britain-eu-farage-trump-idUKKCN11R2AT</guid>
+            <pubDate>Wed, 21 Sep 2016 20:00:08 GMT</pubDate>
+            <content:encoded><![CDATA[LONDON (Reuters) - Brexit will inspire support for Donald Trump and smooth his path to victory in the U.S. presidential election in November, according to Nigel Farage, an architect of the political uprising that saw Britons vote to leave the European Union.<div class="feedflare"> <a href="http://feeds.reuters.com/~ff/Reuters/UKTopNews?a=JANj6D44I3k:zzNDGOxsev0:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/Reuters/UKTopNews?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.reuters.com/~ff/Reuters/UKTopNews?a=JANj6D44I3k:zzNDGOxsev0:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/Reuters/UKTopNews?i=JANj6D44I3k:zzNDGOxsev0:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.reuters.com/~ff/Reuters/UKTopNews?a=JANj6D44I3k:zzNDGOxsev0:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/Reuters/UKTopNews?i=JANj6D44I3k:zzNDGOxsev0:V_sGLiPBpWU" border="0"></img></a> </div><img src="http://feeds.feedburner.com/~r/Reuters/UKTopNews/~4/JANj6D44I3k" height="1" width="1" alt=""/>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Boat carrying 600 migrants sinks off Egypt, killing at least 43]]></title>
-            <link>http://feeds.reuters.com/~r/Reuters/UKTopNews/~3/KE1UsP80agc/uk-europe-migrants-egypt-idUKKCN11R1L4</link>
-            <guid>http://feeds.reuters.com/~r/Reuters/UKTopNews/~3/KE1UsP80agc/uk-europe-migrants-egypt-idUKKCN11R1L4</guid>
+            <title><![CDATA[What's next for Apple's €13bn tax battle?]]></title>
+            <link>https://www.theguardian.com/technology/2016/sep/21/apple-tax-battle-ireland-state-aid-laws</link>
+            <guid>https://www.theguardian.com/technology/2016/sep/21/apple-tax-battle-ireland-state-aid-laws</guid>
+            <pubDate>Wed, 21 Sep 2016 18:50:57 GMT</pubDate>
+            <content:encoded><![CDATA[<p>Margrethe Vestager is on a US charm offensive, making the case about recovering alleged unpaid taxes – but she has been met with more offense than charm</p><p>In the wake of last month’s controversial decision by the European Commission to <a href="https://www.theguardian.com/business/2016/aug/30/apple-pay-back-taxes-eu-ruling-ireland-state-aid">seek “recovery of illegal state aid” for alleged unpaid taxes in Ireland</a> from Apple of up to €13bn – plus interest – the European competition commissioner, Margrethe Vestager, went to the United States this week on a “charm offensive” to make her case to government officials, lawmakers and trade officials.</p><p>Vestager met with US treasury secretary Jacob Lew, had a closed-door session with members of the US Senate finance committee, and spoke at the Global Antitrust Enforcement Symposium at Georgetown University, where she gave a vigorous defense of the EC’s decision.</p> <a href="https://www.theguardian.com/technology/2016/sep/21/apple-tax-battle-ireland-state-aid-laws">Continue reading...</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[The Labour Leadership Election Result Will Follow These 8 Ridiculous Moments]]></title>
+            <link>http://www.huffingtonpost.co.uk/2016/09/21/the-labour-leadership-election-result-will-follow-these-8-ridiculous-moments_n_12121724.html?utm_hp_ref=uk-politics&amp;ir=UK+Politics</link>
+            <guid>http://www.huffingtonpost.co.uk/2016/09/21/the-labour-leadership-election-result-will-follow-these-8-ridiculous-moments_n_12121724.html?utm_hp_ref=uk-politics&amp;ir=UK+Politics</guid>
+            <pubDate>Wed, 21 Sep 2016 17:41:59 GMT</pubDate>
+            <content:encoded><![CDATA[<br />
+<p>Today, as ballots closed for the Labour leadership election, voters got a chance to sit back and reflect on the latest bizarre instalment of &lsquo;<a href="http://www.huffingtonpost.co.uk/politics">Politics 2016</a>&rsquo;.</p><br />
+<p>As if <a href="http://www.huffingtonpost.co.uk/news/eu-referendum">Brexit</a> and a <a href="http://www.huffingtonpost.co.uk/news/theresa-may">new prime minister</a> weren&rsquo;t enough for the country to contend with, Her Majesty&rsquo;s Official Opposition has had a tough and turbulent time navigating court cases, expelling tens of thousands of members and witnessing open civil war among its MPs.</p><br />
+<p>Below, we&rsquo;ve detailed the highlights of what must be one of the busiest 12-week periods in Labour&rsquo;s history - for better or worse.</p><br />
+<h3>1.&nbsp;Shadow cabinet shambles</h3><br />
+<p>It all began with Labour MPs&rsquo; mass resignation from the shadow cabinet, precipitated by then-shadow foreign secretary <a href="http://www.huffingtonpost.co.uk/entry/jeremy-corbyn-sacks-hilary-benn-as-shadow-foreign-secretary-over-attempted-leadership-coup_uk_576f20b0e4b0d2571149c098">Hilary Benn&rsquo;s firing</a>.</p><br />
+<div class="embed-asset embed" data-type="embed-asset" data-provider="Embed" data-title=""><br />
+<div class="embed-code"><blockquote class="twitter-tweet" align="center"><p lang="en" dir="ltr">MPs trying to work in parliament tomorrow <a href="https://t.co/6uqlfMP8Zc">pic.twitter.com/6uqlfMP8Zc</a></p>&mdash; Mollie Goodfellow (@hansmollman) <a href="https://twitter.com/hansmollman/status/747168831634800640">June 26, 2016</a></blockquote><br />
+</div></div><br />
+     <br />
+<p>21 MPs resigned across three days, leaving Jeremy Corbyn to try to rebuild his team and plugging portfolio with the minority of those who backed him.&nbsp;</p><br />
+<p>The leader even got tackled by David Cameron, <a href="http://www.huffingtonpost.co.uk/entry/david-cameron-jokes-newly-elected-labour-mp-will-probably-get-shadow-cabinet-job_uk_577139a4e4b0d257114a174e">who said of a new Labour MP elected in June&rsquo;s by-election</a>: &ldquo;I think I&rsquo;d advise her to keep her mobile phone on, I think she might be in the shadow cabinet by the end of the day.&rdquo;</p><br />
+<h3>2.&nbsp;Media mix-up</h3><br />
+<p>With the new shadow cabinet firmly in place, apart from a minor blip involving another resignation, Corbyn decided to invite the media in to film them all getting stuck in.</p><br />
+<p>But it wasn&rsquo;t until the television cameras all crammed into the room to record their every word that he turned against this idea, uttering the now immortal words...</p><br />
+<br />
+<p>It wasn&rsquo;t long before camera crews were ordered out of the room and the MPs positioned around Corbyn, including deputy Labour leader Tom Watson, were quite literally reshuffled and replaced.&nbsp;</p><br />
+<h3>3. Court kerfuffles</h3><br />
+<p>Things only got worse when law suit after law suit dragged Labour through the courts. First it was a millionaire donor challenging Corbyn&rsquo;s right to automatically appear on the leadership ballot paper, then it was members challenging their exclusion from the election, before the High Court got involved and gave the all-clear to wiping 130,000 from Labour&rsquo;s selectorate.</p><br />
+<div class="embed-asset embed" data-type="embed-asset" data-provider="Embed" data-title=""><br />
+<div class="embed-code"><blockquote class="twitter-tweet" align="center"><p lang="en" dir="ltr">Stat from latest Conservative fundraising email: Labour have had more High Court battles than leadership hustings this summer.</p>&mdash; Stephen Bush (@stephenkb) <a href="https://twitter.com/stephenkb/status/762680009786023936">August 8, 2016</a></blockquote><br />
+</div></div><br />
+     <br />
+<p>Senior judges spent days hearing arguments from the Labour party and Labour members fighting against one another.&nbsp;</p><br />
+<h3>4. &lsquo;Fucking useless&rsquo;</h3><br />
+<p>Next followed an outburst by Corbyn&rsquo;s right-hand-man and shadow chancellor, John McDonnell, who <a href="http://www.huffingtonpost.co.uk/entry/john-mcdonnell-insists-calling-labour-mps-fing-useless-was-a-joke_uk_5785f4e4e4b08078d6e76c91">let slip</a> that he believed those &ldquo;plotting&rdquo; to oust their leader were &ldquo;fucking useless&rdquo;.</p><br />
+<div class="embed-asset embed" data-type="embed-asset" data-provider="Embed" data-title=""><br />
+<div class="embed-code"><blockquote class="twitter-tweet" align="center"><p lang="en" dir="ltr">John &quot;the plotters are fucking useless&quot; McDonnell says &quot;abuse is just not acceptable in our political system&quot;.</p>&mdash; Kevin Schofield (@PolhomeEditor) <a href="https://twitter.com/PolhomeEditor/status/756470146840100864">July 22, 2016</a></blockquote><br />
+</div></div><br />
+     <br />
+<p>&ldquo;It was a stand up comedy event. I know I promised Jeremy Corbyn I wouldn&rsquo;t do any more jokes - I broke my promise to him,&rdquo; he told the BBC.</p><br />
+<div class="content-list-component text"><br />
+<p>&ldquo;I&rsquo;m an ordinary bloke. I used some bad language.&nbsp;If my mother was still alive today she&rsquo;d be coming down and telling me she was going to wash my mouth out with soap.&nbsp;</p><br />
+</div><br />
+<h3>5. Father&rsquo;s For Justice</h3><br />
+<p>Next in the bizarre series of events, Corbyn himself became the target of protest - as two &lsquo;Fathers For Justice&rsquo; campaigners stormed and occupied his roof.&nbsp;</p><br />
+<p>Activists Bobby Smith and Martin Matthews scaled the Islington MP&rsquo;s home to protest his failing to engage with them over access rights for dads.</p><br />
+<div class="embed-asset embed" data-type="embed-asset" data-provider="Embed" data-title=""><br />
+<div class="embed-code"><blockquote class="twitter-tweet" align="center"><p lang="en" dir="ltr">Corbyn now realising how annoying people who refuse to step down can be. <a href="https://t.co/bXLKUT8fXX">https://t.co/bXLKUT8fXX</a></p>&mdash; Asa Bennett (@asabenn) <a href="https://twitter.com/asabenn/status/761529982925598720">August 5, 2016</a></blockquote><br />
+</div></div><br />
+     <br />
+<p>They came down six hours later, saying:&nbsp;&ldquo;Point made.&nbsp;Thank you for all the support.&rdquo;</p><br />
+<h3>6. Traingate</h3><br />
+<p>Perhaps the strangest and most unlikely of scandals to rock Westminster came when Richard Branson personally intervened to censure Corbyn, releasing CCTV images of the Labour leader ignoring free seats as he walked through a train he claimed was &ldquo;ram-packed&rdquo;.</p><br />
+<p>Leaving the Liberal Democrats&rsquo; press office <a href="http://www.huffingtonpost.co.uk/entry/the-lib-dem-press-office_uk_57e25325e4b004d4d8613853?utm_hp_ref=uk">to do as it so often does</a> and use the subject to mock its political opponents with a cutting 404 page.&nbsp;</p><br />
+<div class="embed-asset embed" data-type="embed-asset" data-provider="Embed" data-title=""><br />
+<div class="embed-code"><blockquote class="twitter-tweet" align="center"><p lang="en" dir="ltr">It isn't a scandal until the LibDems make a vaguely amusing 404 page about it <a href="https://t.co/wYChV0CK6R">pic.twitter.com/wYChV0CK6R</a></p>&mdash; Jack Tindale (@JackTindale) <a href="https://twitter.com/JackTindale/status/768138302780235776">August 23, 2016</a></blockquote><br />
+</div></div><br />
+     <br />
+<p>To remind yourself of just how many times Corbyn changed the story behind how he came to be sitting on the floor of a Virgin service filming, <a href="http://www.huffingtonpost.co.uk/entry/jeremy-corbyn-train-explanation-change_uk_57bd97afe4b0f78b2b4c727a">check out our timeline</a>.</p><br />
+<h3>7.&nbsp;Smith&rsquo;s schlong comment</h3><br />
+<p>Corbyn&rsquo;s leadership contender Owen Smith gave quite the spate of &ldquo;colourful&rdquo; comments this summer, many of which were labelled sexist.</p><br />
+<p>But that reached a peak when Smith was forced to deny claims he had made a joke about his &ldquo;29-inch penis&rdquo; at a campaign rally.</p><br />
+<div class="embed-asset embed" data-type="embed-asset" data-provider="Embed" data-title=""><br />
+<div class="embed-code"><blockquote class="twitter-tweet" align="center"><p lang="en" dir="ltr">I was going to ask why people are talking about Owen Smith's penis but I don't think I actually want to know</p>&mdash; Abi Wilkinson (@AbiWilks) <a href="https://twitter.com/AbiWilks/status/770069144528101376">August 29, 2016</a></blockquote><br />
+</div></div><br />
+     <br />
+<p>His campaign spokesperson told The Huffington Post UK Smith had been making a &ldquo;self-depreciating joke about his height&rdquo;, a claim that failed to win over his detractors.&nbsp;</p><h3>8.&nbsp;1980s throwback</h3><br />
+<p>Then, in a gift to political satirists across the country, Corbyn announced a campaign event at which he would <a href="http://www.huffingtonpost.co.uk/entry/mick-hucknalls-jeremy-corbyn-ub40-joke-is-pretty-brutal-but-quite-funny_uk_57ce9801e4b085cf1ecf70ce">officially be endorsed by UB40</a>.&nbsp;</p><br />
+<p>It prompted much commentary, and even this comment from Simply Red&rsquo;s Mick Hucknall.</p><br />
+<div class="embed-asset embed" data-type="embed-asset" data-provider="Embed" data-title=""><br />
+<div class="embed-code"><blockquote class="twitter-tweet" align="center"><p lang="en" dir="ltr">Jeremy Corbyn has much in common with UB40. They are currently as divided as his Labour Party.</p>&mdash; Mick Hucknall (@mjhucknall) <a href="https://twitter.com/mjhucknall/status/773086294901686276">September 6, 2016</a></blockquote><br />
+</div></div><br />
+     <br />
+<p>The other UB40 band (those who split but insisted they had the rights to the name) were even tracked down and asked for their feelings on Corbyn.</p><br />
+<p>&ldquo;Ali, Astro &amp; Mickey have always been great supporters of the Labour Party, and they look forward to the new leader taking the Labour party back into government at the earliest opportunity,&rdquo; <a href="http://www.mirror.co.uk/news/uk-news/ub40-shared-feelings-jeremy-corbyns-8780397" target="_blank">a spokesperson told the Mirror</a>.</p><br />
+<h3>NOW READ:</h3><br />
+<div class="embed-asset embed" data-type="embed-asset" data-provider="Embed" data-title=""><br />
+<div class="embed-code"><a href="http://www.huffingtonpost.co.uk/entry/dan-jarvis-jeremy-corbyn-labour-leadership-election-shadow-cabinet_uk_57dbb59fe4b0d584f7f09d38" data-iframely-url="//dk79lclgtez2i.cloudfront.net/zpgpdx" data-template="inline"></a></div></div><br />
+      ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Online Voting Necessary For True Digital Democracy]]></title>
+            <link>http://www.huffingtonpost.co.uk/ian-brook/online-voting-necessary-f_b_12086826.html?utm_hp_ref=uk-politics&amp;ir=UK+Politics</link>
+            <guid>http://www.huffingtonpost.co.uk/ian-brook/online-voting-necessary-f_b_12086826.html?utm_hp_ref=uk-politics&amp;ir=UK+Politics</guid>
+            <pubDate>Wed, 21 Sep 2016 16:50:57 GMT</pubDate>
+            <content:encoded><![CDATA[Digital democracy has taken centre stage of late. Indeed, the recent launch by Jeremy Corbyn of Labour's digital manifesto and plans to 'democratise the internet' show a realisation by politicians and parties that technology must be central to policy and should enable citizens to interact with the democratic process in a more participatory and meaningful way.<br />
+<br />
+The manifesto's 'Digital Citizen Passport', designed to give individuals a secure and portable online identity as well as aid the process of interacting with public services online, along with its 'Massive Multi-Person On-line Deliberation' objective, which plans to utilise technology to make popular participation in the democratic process easier and more inclusive, arguably give an indication of the demand from citizens for greater choice. When it comes to interacting with government and engaging in political discourse, there is a desire to utilise the same types of technologies and smartphones which are readily adopted in other areas of people's lives.<br />
+<br />
+Add to this a recent comment from Katie Ghose, Chief Executive of the Electoral Reform Society who said in a report analyzing the EU Referendum: "there is a huge appetite out there for the public to engage in crucial constitutional issues - and that appetite hasn't gone away simply because 23rd June 2016 has been and gone" and we might conclude that the need for greater online participation, or digital democracy to coin a phrase, should be a top priority for UK government. If, as Corbyn mentioned in this digital manifesto launch speech, 'the terrain on which opinions are formed is changing', shouldn't the implementation of digital platforms for all types of interactions with government be put in place as a matter of urgency?<br />
+<br />
+The option to vote online, for example, would provide a complimentary channel to traditional voting methods and would undoubtedly offer greater choice to voters who wish to cast their votes privately and securely online. Unfortunately, the Digital Democracy Commission does not anticipate eVoting as an option for quite a while, giving a recommended date of 2020 for implementation.<br />
+<br />
+Of course, the issue of online security always rears its ugly head and rightly so. Jeremy Corbyn mentioned online voting within his digital manifesto speech, but said Labour would only consider it when they could be sure of its reliability. Many critics believe online voting systems are too vulnerable to malicious attacks and voters need to feel confident that their vote has been cast as intended, recorded as cast and counted as cast. There is, however, a clear distinction between online voting using basic and advanced information security - the latter perhaps providing a more secure method of voting than postal voting which everyone currently has access too.<br />
+<br />
+Although standard encryption and decryption methods have proven more vulnerable to both internal and external attacks, advanced measures which incorporate digital certificates, digital signatures, immutable logs and end-to-end encryption guarantee that voters are strongly authenticated, privacy is protected and election results and votes cannot be manipulated by hackers. This level of security ensures even internal election staff, with particular system privileges, would be unable to manipulate data without being detected and immediately stopped.<br />
+<br />
+So if the technology now exists to offer secure and authenticated online voting options for voters, what are we waiting for? The UK Government has been resistant to the adoption of online voting despite the huge advantages including a faster and more accurate vote counting process, greater accessibility for remote or disabled voters, prevention of human errors like over or under counting, multi-language support, greater convenience - not to mention greater engagement from younger voters.<br />
+<br />
+In Corbyn's digital democracy, and in a world outlined by the Electoral Reform Society where there is a huge appetite to engage in political debate and discussion, the requirement for a secure digital voting platform, allowing voters the option of casting their vote privately and securely online, is both inevitable and necessary. <br />
+ <br />
+<strong>Ian Brook, Director, Northern Europe, <a href="https://www.scytl.com/en/" target="_hplink">Scytl</a></strong> ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Ryder Cup 2016: Tiger Woods may have adverse influence, claims Westwood]]></title>
+            <link>https://www.theguardian.com/sport/2016/sep/21/ryder-cup-2016-tiger-woods-lee-westwood</link>
+            <guid>https://www.theguardian.com/sport/2016/sep/21/ryder-cup-2016-tiger-woods-lee-westwood</guid>
+            <pubDate>Wed, 21 Sep 2016 16:49:53 GMT</pubDate>
+            <content:encoded><![CDATA[• Westwood: ‘He could have an adverse effect in the USA team room’<br />• Ryder Cup veteran also queries ‘non-selection’ of Bubba Watson<p>The first blow of the phoney war which always precedes a Ryder Cup has been landed by Lee Westwood, who has pointed towards the potentially “adverse” influence of Tiger Woods as a vice-captain of the USA.</p><p> <span>Related: </span><a href="https://www.theguardian.com/sport/2016/sep/21/paul-casey-fedex-cup-finale-european-tour-ryder-cup">Paul Casey’s FedEx finale may spring change in Europe’s qualification rules</a> </p> <a href="https://www.theguardian.com/sport/2016/sep/21/ryder-cup-2016-tiger-woods-lee-westwood">Continue reading...</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[One Radical Reform To Help Corbyn Or Smith Rebuild Labour's Links To Business]]></title>
+            <link>http://www.huffingtonpost.co.uk/simon-pitkeathley/one-radical-reform-to-hel_b_12098526.html?utm_hp_ref=uk-politics&amp;ir=UK+Politics</link>
+            <guid>http://www.huffingtonpost.co.uk/simon-pitkeathley/one-radical-reform-to-hel_b_12098526.html?utm_hp_ref=uk-politics&amp;ir=UK+Politics</guid>
+            <pubDate>Wed, 21 Sep 2016 16:49:10 GMT</pubDate>
+            <content:encoded><![CDATA[<center><strong>Both Jeremy Corbyn and Owen Smith claim to be radicals. They can prove this by overhauling the unfair business rates system.</strong></center><br />
+<br />
+<br />
+<center><a href="http://images.huffingtonpost.com/2016-09-20-1474365944-344319-_90473944_corbynsmith.jpg"><img alt="2016-09-20-1474365944-344319-_90473944_corbynsmith.jpg" src="http://images.huffingtonpost.com/2016-09-20-1474365944-344319-_90473944_corbynsmith-thumb.jpg" width="570" height="320" /></a></center><br />
+<br />
+<br />
+<center>In October, businesses across the country will learn their new rateable values. This will reflect changes in the property market, and forms the basis of what companies will have to pay in business rates from April 2017.<br />
+<br />
+The revaluation is expected to bring the most significant change in business rates for high street retailers in a generation and, for businesses in London, this is a looming threat. The capital is home to 16 per cent of the nearly two million properties in England that are required to pay business rates, and contributes nearly a third of the total money raised nationally.<br />
+<br />
+Rateable values are expected to see their most dramatic rises in London and, in this time of economic uncertainty, that could push thousands of small businesses to the wall.<br />
+<br />
+London mayor Sadiq Khan has pledged to ensure that the rise "doesn't whack London", but until business rates are fully devolved there is only so much he can do. Labour's leader after Saturday can support Khan at the national level by championing bold and radical new thinking on business rates.<br />
+<br />
+Corbyn has previously called for a business rates freeze and Smith recently criticised Labour for being "too timid" on tax. One idea the leadership should explore is to change who pays business rates. Why not limit the charge to commercial landowners? Business rates are calculated based on an estimate of a commercial property's open market rental value. The rates are then levied on property occupiers regardless of whether they own or lease the property.<br />
+<br />
+For a small business renting a commercial property, this is hardly fair. The increased business rates they will have to pay next year reflect the increased value of their landlord's property, not an increase in the value of their company. Given the volatile conditions that have followed the vote to leave the European Union, these businesses may well see their companies' value decrease by April 2017. If business rates were only levied on property owners, regardless of whether they occupy the property, the tax regime would more fairly reflect the value that is being taxed.<br />
+<br />
+This system would also give the owners of vacant commercial property a greater incentive to invest in, and rent out, their empty properties in order to generate income to balance the cost of business rates. This financial incentive would help to align the interests of landlords with those of local councils, business improvement districts and others working to drive regeneration and business growth in local communities. We could see less empty space on the high street as a result.<br />
+<br />
+The change would also create a new dynamic between landlords and business tenants, which would help both groups. Landlords would have a direct interest in seeing the business occupiers succeed and grow their companies as this would ensure the tenants could afford to pay rent to help cover the costs of business rates.<br />
+<br />
+This would certainly be a radical solution, but it could be just what Labour needs to move forward the debate on high streets. Without a change to the law, empty properties on our high streets will remain a problem. Reserving business rates to commercial property owners could be the change that's needed to give high streets a shot in the arm.<br />
+<br />
+So we welcome the promise of a "radical" Labour leader. For the sake of high street retailers and small businesses, let's hope these words translate into actions.<br />
+<br />
+<em>This article was originally <a href="http://labourlist.org/2016/09/one-radical-reform-to-help-corbyn-or-smith-rebuild-labours-links-to-business/" target="_hplink">published by Labour List</a>. </em></center> ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Some Hard Lesson For US Democrats From Brexit]]></title>
+            <link>http://www.huffingtonpost.co.uk/jackie-kemp/brexit-us-election_b_12120260.html?utm_hp_ref=uk-politics&amp;ir=UK+Politics</link>
+            <guid>http://www.huffingtonpost.co.uk/jackie-kemp/brexit-us-election_b_12120260.html?utm_hp_ref=uk-politics&amp;ir=UK+Politics</guid>
+            <pubDate>Wed, 21 Sep 2016 16:40:39 GMT</pubDate>
+            <content:encoded><![CDATA[Brexit continues to lie untouched in the dog's breakfast bowl, no more appetising in the cold light of day than it was when the smell started on the night of June 23. Hard Brexit, soft Brexit, Brexit over easy on rye, nobody's quite sure what they ordered. The Scots aren't planning to shut up and eat what someone else requested on their behalf, that's clear. <a href="http://linkis.com/www.rt.com/uk/PSTts" target="_hplink">Alex Salmond said recently there will be a new independence referendum in 2018</a>.<br />
+    The US is facing a similar binary choice with one indigestible option on the menu: here are some lessons from a still-suffering Remain supporter.<br />
+<br />
+Denial doesn't help.<br />
+<br />
+       In the run up to the referendum on EU membership, I found myself almost unable to believe that the British people would vote Leave. Reading reports of the poll results, I discounted the ones I didn't like.<br />
+      When MP Jo Cox was brutally murdered, I thought, as many others did that people would vote the way she wanted, to honour her memory. But it wasn't a turning point, in fact it was an indicator of how bad things were getting in that part of England. Even her own constituency voted 'Leave'. We were in denial.<br />
+      There was a recent article in the New York Times about Democrats seeing Trump eyeing the White House. "The possibility of that is too horrifying to broach," Larry David, the "Seinfeld" co-creator and "Curb Your Enthusiasm" star, wrote in an email. "It's like contemplating your own death. I can't go there". Go there.<br />
+<br />
+<br />
+Beware the filter bubble<br />
+<br />
+         A British entry has more chance of winning Eurovision than Trump has of carrying  Massachusetts, where I am now. I read the New York Times which does not carry their voices; a friend pointed to this i<a href="http://mobile.nytimes.com/2016/09/17/us/politics/hillary-clinton-voters.html" target="_hplink">nterview</a> with an imaginary Trump supporter.  I don't know them. <br />
+          Similarly, my home city of Edinburgh was the most Remain of any in the UK. I know people who were pretty unenthusiastic about the European Union, but none who voted 'Leave".<br />
+On the day after the EU referendum, in a Facebook post, mySociety founder, Tom Steinberg, wrote" I am actively searching through Facebook for people celebrating the Brexit leave victory, but the filter bubble is SO strong, and extends SO far into things like Facebook's custom search that I can't find anyone who is happy *despite the fact that over half the country is clearly jubilant today* and despite the fact that I'm *actively* looking to hear what they are saying... We're getting countries where one half just doesn't know anything at all about the other." (Quoted by the Guardian's Katharine Viner in "<a href="https://www.theguardian.com/media/2016/jul/12/how-technology-disrupted-the-truth" target="_hplink">How Technology Disrupted the Truth</a>".)<br />
+          Disproportionately old, poor, socially unconnected, living in deprived areas, Leavers were heavily reliant for information on tabloid news outlets punting out cheap populism. <br />
+<br />
+ Avoid "mansogyny" and other inverse prejudice<br />
+<br />
+         After the Brexit vote in the UK, I listened on a radio phone-in. One woman called the show in tears to say she had been told: "White trash shouldn't have the vote."<br />
+         And on an important TV debate in the run-up to the referendum, we watched an all-female team on the Remain side make repeated personal attacks on Boris Johnson. "That's mansogyny," my teenage son commented. A joke, but perhaps his word captured how some male viewers felt.<br />
+          The new poor, the new marginalised, are sensitive to their loss of status. Don't insult them.<br />
+<br />
+<br />
+Think harder<br />
+<br />
+           In the Brexit referendum campaign, the boring case for continuing to work towards a better Europe didn't measure up to the grandiose false promises of "Leave". <br />
+         Apparently the Chinese followed the Brexit campaign with fascination - the Chinese media reported it in detail, as an example of what a silly system democracy is. The Chinese media have <a href="http://www.alternet.org/election-2016/chinas-state-media-pointing-donald-clown-trumps-rise-undermine-notion-democracy" target="_hplink">also described the rise of Trump</a> the "big-mouthed clown" as an illustration of scarey and pointless democracy.<br />
+           But what really lies behind his rise in support? In France, Emmanuel Macron <a href="http://www.economist.com/news/europe/21702230-young-economy-minister-wants-change-french-politics-if-he-runs-he-may-linternationaliste" target="_hplink">describes </a>a new split in politics superseding the left-right divide, between those afraid of globalisation and those who see it as an opportunity. But has unfettered globalisation has been too harsh for too many people? <a href="http://www.nytimes.com/2016/09/18/opinion/sunday/put-globalization-to-work-for-democracies.html" target="_hplink">Dani Rodrick in the NYT </a>argued that a more strategic approach could have been taken.  <br />
+             Democracy, as Winston Churchill put it, is the worst form of government except for all the others.<br />
+<br />
+Be Ready.<br />
+<br />
+               It is likely that Hillary Clinton will be elected the next President of the United States. It will be a historic moment - the election of an older woman, a grandmother, a woman of as the leader of the free world. It is still unlikely that Trump will win. But it's possible. <br />
+               The night of June 23 was a memorable low for British democracy. It was a shambles. It was only when Scotland's SNP leader Nicola Sturgeon <a href="https://www.youtube.com/watch?v=1moPW7b9mHI" target="_hplink">appeared on television</a>, looking poised, flanked by Scottish and European flags that it seemed as if we were watching someone who had prepared for this moment. For her, the end of the Brexit referendum was the beginning of the next electoral campaign. <br />
+               One of the strengths of democracy is in its resilience. As long as the other institutions which underpin it remain strong, and an autocrat isn't able to seize power, there will be another election coming up. <br />
+	      For Democrats, as for democrats, November 9, 2016 will be either a day for celebration or it will be a day to be ready to start the next campaign. But I hope it's the former. ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Can Corbyn Surprise Us By Uniting Labour?]]></title>
+            <link>http://www.huffingtonpost.co.uk/mike-obrien1/jeremy-corbyn-labour-unity_b_12118700.html?utm_hp_ref=uk-politics&amp;ir=UK+Politics</link>
+            <guid>http://www.huffingtonpost.co.uk/mike-obrien1/jeremy-corbyn-labour-unity_b_12118700.html?utm_hp_ref=uk-politics&amp;ir=UK+Politics</guid>
+            <pubDate>Wed, 21 Sep 2016 16:03:19 GMT</pubDate>
+            <content:encoded><![CDATA[Jeremy Corbyn has pledged to reunite the Labour Party after the leadership election, but how can he do that? And what might be the terms on which unity is achieved?<br />
+<br />
+The wounds in the Labour Party run deep. There is talk of de-selecting MPs, sacking headquarters staff, gossip about a new party and proposals for shadow cabinet positions to be being elected by MPs or by party members. This feels like a civil war, which means that a spirit of compromise essential for unity will be hard for both sides to find. <br />
+<br />
+Voters know that a party fussing about its constitutional structure has turned inwards. Winning elections requires politicians to face outwards and talk about the problems of the people. Corbyn can never be Prime Minister if he leads a divided party. <br />
+<br />
+As a leader Jeremy Corbyn has many strengths.  He is tough, principled, unspun and authentic.  He has inspired the idealism of many young people and has helped to create the largest party membership ever.  But there are weaknesses too.  He has never articulated a clear vision for the party and he has lost the confidence of 82% of Labour MPs.  Rebel MPs claim Corbyn is uncommunicative, makes policy announcements without consulting shadow Ministers and that he hides behind a praetorian guard of advisers.  Perhaps, the most personally hurtful allegation is that he is more out of touch with his fellow MPs than Tony Blair ever was.  <br />
+<br />
+Winning the leadership election will not deal with these concerns. And, as a past rebel, Jeremy Corbyn knows that relying on the power of the whips or the threat of de-selection does not secure loyalty.  Corbyn needs the active support of the Parliamentary Party from here until the next election if he is to be Prime Minister. Threatening de-selection or, even worse doing it, will create more enemies.<br />
+<br />
+Despite these problems Corbyn retains the capacity to surprise. Few expected him to be elected leader in 2015 and few believed he could survive a vote of no confidence by four out of five MPs. Reuniting Labour will be a tough challenge, but he might surprise people again. It is likely that for a month or so after the election he will have a window of opportunity to spell out the terms on which he will seek party unity.  It remains to be seen whether that period will be about building bridges to unity or not.  <br />
+<br />
+Party policy matters in the search for unity.  Like Kinnock, Smith and Blair, Jeremy Corbyn will need to set out his policy priorities. It can take years to convince the party and the voters about just one or two big policy changes and trying to change too much in one go will make party unity impossible. Leaders have to negotiate their agenda with MPs, with party members and, most importantly, with the voters. Dictats from the leaders office just provoke unnecessary rows and going over the heads of MPs to appeal to party members sows the seeds of future problems.<br />
+<br />
+To unite the party Corbyn has to bring around his MPs. He can start doing that by talking to his colleagues and particularly spending time in the tearoom where MP's gather for meals and a cup of tea before votes.  Even Blair and Brown turned up in the tearoom when things got tough. Listening and talking to people enables criticism to be absorbed and managed.  It's worth remembering that earlier this year, when Hilary Clinton wanted to address doubts about her role in the deaths in Benghazi, she offered a Republican dominated Congressional Committee an open ended question session to absorb the flak.  And it worked. <br />
+<br />
+Times are tough for Corbyn. If he wants change, he needs to better engage with colleagues, let them get their doubts off their chest; he can absorb their pain and also let them know he cares about them as people. It requires patience, humility and time, but it is a political skill that gets results. <br />
+<br />
+Corbyn also needs to spend time developing a clear vision of what the Labour Party stands for in the post New Labour era. The failure to have a serious debate after 2010 was a major error, committed in the name of party unity. The world has changed since 1997, but the party has never really addressed the question, what is the purpose of a modern socialist party in the era of the global market?  This is not about what Jeremy Corbyn stands for as a leader.  The question is 'what is the party here for?'  This debate could be Corbyn's opportunity.  It is a debate that can easily embrace and energise both Blairites and Corbynistas. Many issues are neither right wing nor left wing, but they matter. <br />
+<br />
+The coming months could be a seminal moment for the party, determining its direction of travel on equality, globalization, climate change, foreign policy, Brexit, the Internet, porous national borders, Muslim religious revival, the neglect of the North of England and the management of global financial services. <br />
+<br />
+So Corbyn should take this opportunity to reach out as leader.  But Labour MPs must also recognise that unity is a two way street and they must respond to any olive branch. Corbyn was elected to bring policy change, which means that MP's schooled in the New Labour shibboleths must be ready to reassess them. <br />
+<br />
+One issue on which Corbyn appears to want change is Trident. This really is a difficult issue for many Labour MPs and some unions. Yet Tony Blair in his biography revealed that he and Gordon Brown discussed scrapping it. It seems Blair and Brown decided not to do it primarily on political rather than military grounds. The military arguments were finely balanced, but they decided that the political price was just too high. <br />
+<br />
+The only serious military argument for an independent nuclear deterrent is the 'rogue state thesis'. What if North Korea or Iran tell us to obey - or else? But the weakness of the argument is that Trident is not completely independent anyway. The Americans supply the kit, so they would have to give us permission to threaten others with it.  <br />
+<br />
+Some military voices say Britain would be safer spending the money on its armed services. But the real argument on Trident that persuaded Blair was the political one. For fifty years voters have bought into the notion that "our bomb" is an insurance policy and it would be risky to give it up. Convincing voters to change their mind on Trident could take years. Corbyn will need to work hard to convince his MPs that this really is the priority policy change we need now.<br />
+<br />
+Trident is an unsurprising priority for Corbyn because he has always had a keen interest in peace and foreign affairs.  His vision of Britain's role in the world is different to that of Tony Blair. He looks more to the Scandinavian model, than an Atlanticist one.  <br />
+<br />
+Norwegian foreign policy involves being a member of NATO, but using diplomacy, military clout and wealth to create a global role as a trusted arbitrator by resolving wars, providing peacekeepers and taking the long view on international issues. Notably, it was Norway that managed the Oslo Accords between Israel and Palestine. When Blair later tried Middle East peace negotiations, he made little progress. Yet, interestingly, Norway is seen by the USA as a close friend and also an international asset on the world stage. So there is nothing ignoble about Corbyn learning lessons from the Scandinavian model.  Of course it would mark a change from New Labour, but it is not unprecedented for the Labour Party. It refers back to the 'ethical foreign policy' of Robin Cook, but also to the international ambitions of early leaders like Keir Hardie, George Lansbury and even Ramsey McDonald. Corbyn's views therefore have roots in Labour history, so they cannot be dismissed. <br />
+<br />
+His attitude also combines internationalism and, surprisingly, nationalism. It sees a new role for Britain on the world stage but it also enables him to keep our servicemen safe by avoiding foreign wars such as Libya, Syria and Iraq. <br />
+<br />
+But ethical policies can cause dilemmas. After all, the interventions in Sierra Leone and Kosovo undeniably saved lives and the most shameful foreign policy of the last thirty years was arguably the UK refusal to do anything to stop the Rwanda massacres. <br />
+<br />
+Israel is another dilemma for Corbyn. As an MP he could easily side with the Palestinians; but as party leader he has to come to terms with the fact that Labour is a Zionist party; that is, if Zionism is defined as supporting the existence of the state of Israel. Of course, Labour has opposed settlements and supported Israel based on the pre-1967 boundaries.  In the recently published book "The Left's Jewish Problem", the author David Rich argues that Corbyn's speeches reveal that he has tended to see Israel through the prism of Western colonialism.  This perspective really annoys British Jews. But it is easy to deal with. Corbyn could pledge unequivocally to support a democratic Israel, at least within the 1967 borders, and a negotiated settlement over Jerusalem. He should also support and recognise Palestine. In the final analysis, Britain has a massive interest in a peace settlement in Middle East and Labour leaders must not be partisans for one side or the other, but should be advocates for a fair and just peace settlement.<br />
+<br />
+Thankfully Corbyn now seems to be acknowledging that anti Semitism is a unique type of racism.  His speeches in the past tended to use the phrase, "anti Semitism and other kinds of racism", lumping it all together. Racists see others as of lesser worth, but historically, anti-Semitism has presented the Jews as a threat due to their supposed wealth and power. These are different kinds of prejudice.  They need to be condemned for what they are. British Jews suspect Corbyn doesn't get that. He should be able to reassure people that he does now understand it. <br />
+<br />
+Labour's greatest weakness has always been the economy.  Gordon Brown convinced people he would be prudent with their money; in other words that he could say "no". Sadly, Ed Balls didn't convince people. The weakness of John McDonnell as Chancellor is not his economic views, which are actually conventionally Keynesian and much influenced by the American Nobel prize winners, Paul Krugman and Joseph Stiglitz.  McDonnell probably frightens the City less than he thinks he does.  Rather the problem is that having a sense of humour, which borders at times on the flippant, does not fit with controlling money. McDonnell needs to learn lessons from Brown about acting like a dour, humourless, boring banker.  <br />
+<br />
+One problem for Corbyn is that McDonnell is a strong media performer and this has led to him being used too often to firefight minor flare ups in Labour's civil war. As Shadow Chancellor he ought to be seen as singularly focused on the most important task for Labour, restoring its credibility on the economy. When he gives a speech it should be a serious event. Corbyn trusts McDonnell, but a move to the post of Shadow Employment Secretary might allow him to have a more flexible media profile, whilst retaining influence on economic policy.  It could also help Corbyn to mend fences with the MPs by appointing a new Shadow Chancellor, such as Ed Miliband.<br />
+<br />
+Another area where Corbyn needs to develop his policy is on immigration. Workers voted for Brexit because they wanted the government to manage the numbers coming into the UK. There is nothing socialist about the free movement of labour. It benefits the bosses not the workers. A socialist should want a planned immigration policy that is neither racist nor xenophobic. Corbyn tends to see immigration though the prism of racism, but he ought to be calling for a planned socialist management of our borders. That must be in the interest of working people. <br />
+<br />
+But does Corbyn really want a united party? The answer is that he wants unity on his own terms. <br />
+<br />
+There will be policy changes and compromise is going to be difficult for someone whose unique selling point is that he is a man of principle. <br />
+<br />
+Corbyn also faces pressure from those who would like to split the party. Some of his supporters in Momentum are instinctive sectarians who lack a history in the Labour Party. They distain Blairites and believe that because their captain has the helm, all Blairites should be thrown overboard. <br />
+<br />
+Momentum acts as Corbyn shock troops in the constituency parties. They have struck fear into the hearts of many loyal party members who have canvassed for Labour for years. Some in Momentum have never canvassed for Labour and some may have canvassed against Labour. Whilst pretending that the fringe hard left parties control Momentum is wrong, it is also undeniable that the hard left is infiltrating and trying to get control of it. <br />
+<br />
+Factional organisations do not foster unity. Corbyn needs to curb the growing intimidation in the party. It would be a good step toward unity if Corbyn said Momentum activists must all be Labour Party members. <br />
+<br />
+Labour has always been a coalition of the working class, the unions and the left, so it can include socialists, liberals and sometimes religious social conservatives. In the 1980's it looked like the forward march of Labour had been halted as the decrease in the numbers in the working class. Tony Blair, from the right of the party, rebuilt the crumbling Labour coalition by charisma, guts and skill. Miliband later tried to do it from the soft left, but lacked the charisma to do it.  <br />
+<br />
+Today, to the surprise of many of us who have known him for decades, Jeremy Corbyn seems to have emerged from obscurity with that indefinable something people call charisma.  It has enabled him to spring surprise after surprise. His next big surprise must be to show he can unite the Labour Party, including the Parliamentary Party, behind him. But nothing can better unite a party like a charismatic leader who looks like he can win. Corbyn has got to start looking and thinking like the man who could be Prime Minister. <br />
+<br />
+After all, getting the leadership of the Labour Party is merely the qualifying race to get to the starting line for the race to become Prime Minister. It is the moral duty of the Labour leader to win that race and only a united party can win a general election. <br />
+<br />
+So the qualifying race has just finished and the next race against Teresa May is about to begin. <br />
+<br />
+<em>Mike O'Brien QC served under Tony Blair and Gordon Brown as a Minister in the Home Office, Foreign Office, as a law officer and Health Minister 1997-2010. He left Parliament and now practices law.</em> ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Jeremy Corbyn Vows To 'Wipe The Slate Clean' With Hostile Labour MPs]]></title>
+            <link>http://www.huffingtonpost.co.uk/2016/09/21/jeremy-corbyn-labour-leadership-mps_n_12119956.html?utm_hp_ref=uk-politics&amp;ir=UK+Politics</link>
+            <guid>http://www.huffingtonpost.co.uk/2016/09/21/jeremy-corbyn-labour-leadership-mps_n_12119956.html?utm_hp_ref=uk-politics&amp;ir=UK+Politics</guid>
+            <pubDate>Wed, 21 Sep 2016 16:01:06 GMT</pubDate>
+            <content:encoded><![CDATA[<br />
+<br />
+<p>Jeremy Corbyn has vowed to &ldquo;wipe the slate clean&rdquo; with MPs who tried to oust him if he is reelected as Labour leader Saturday.</p><br />
+<p>Corbyn, who is expected to easily beat Owen Smith in the leadership contest, today revealed he had received phone calls from &ldquo;an awful lot&rdquo; of Labour colleagues asking him how they can &ldquo;play their part&rdquo; in fighting the Tories.</p><br />
+<p>The Labour leader claimed the upcoming party conference in Liverpool &ndash; due to begin on Sunday &ndash; will be a &ldquo;turning point&rdquo; which will allow Labour to come together and plan for the next General Election.</p><br />
+<p>Voting in the summer-long leadership contest closed today at 12noon, with the result planned to be announced on Saturday morning.</p><br />
+<p>In an interview with the BBC this afternoon, Corbyn was asked how he could bring the party back together after 172 Labour MPs voted against him in a no confidence ballot.</p><br />
+<p>He said: &ldquo;I&rsquo;m reaching out and offering them&hellip; and I - as you&rsquo;ve probably noticed, despite a lot of very personal criticism that have been made of me, very unpleasant remarks that have been made about me by a very large number of Labour MPs &ndash; I&rsquo;ve not replied to any of them.</p><br />
+<p>&ldquo;I&rsquo;ve taken it all on board, understood what they&rsquo;re saying, and ask them to behave in a decent and responsible way and come together so that we do have an ability to take the fight to the Tories. Wipe the slate clean and move forward.&rdquo;</p><br />
+<p>His comments could see a return to the Shadow Cabinet for several high profile MPs who stood down amid the mass resignations in the wake of EU referendum result.</p><br />
+<p>Corbyn&rsquo;s performance at PMQs last week, where he seemed to dominate Theresa May over the reintroduction of grammar schools, drew cheers from MPs who usually stayed silent during the weekly jousts.&nbsp;</p><br />
+<p>Corbyn said today: &ldquo;I invite all my colleagues in Parliament to recognise that now we are agreed on opposing austerity, we&rsquo;re agreed on opposing selection at the age of 11, we&rsquo;re agreed on opposing the Government&rsquo;s welfare strategy, we&rsquo;re agreed on the redlines surrounding Brexit negotiations. There&rsquo;s an awful lot that we agree on.</p><br />
+<p>&nbsp;&ldquo;And I tell you I&rsquo;ve had an awful lot of calls from Labour MPs in the last few days who are very interested in how we come together after the 24th,&nbsp;how they play their part in taking the fight to the Tories in Parliament and outside.&nbsp;</p><br />
+<p>&ldquo;And so I think at the end of this campaign I thank everyone that&rsquo;s taken part in the campaign, Owen&rsquo;s supporters and my supporters, Owen&rsquo;s team and my team, for all the work and energy they&rsquo;ve put into this.</p><br />
+<p>&ldquo;Now is the time to come together on the core Labour values that we agree with and take it to the Tories.&rdquo;</p><br />
+<p>Corbyn was asked whether he was mistaking enthusiasm at rallies for wider support in the country, an accusation also leveled at Labour leader Michael Foot &ndash; who led the party to crushing defeat in 1983.</p><br />
+<p>He replied: &ldquo;That was at the time the SDP was founded which was to walk away from the party and damage the party&rsquo;s chances.&nbsp;Michael Foot did a great job and did his best.&nbsp; We are going to do even better.&rdquo;</p> ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[EC wants to axe mobile phone roaming charges next year]]></title>
+            <link>https://www.theguardian.com/business/2016/sep/21/european-commision-mobile-phone-roaming-charges-telecoms</link>
+            <guid>https://www.theguardian.com/business/2016/sep/21/european-commision-mobile-phone-roaming-charges-telecoms</guid>
+            <pubDate>Wed, 21 Sep 2016 15:42:33 GMT</pubDate>
+            <content:encoded><![CDATA[<p>Brussels plans to scrap 90-day limit on free roaming after outcry from members of European parliament</p><p>Consumers across Europe should be able to pay the same for using their mobile phones abroad as they do in their home country for an unlimited number of days, under plans being debated by the European commission as it tries to abolish roaming charges.<br></p><p>The commission discussed new proposals on Wednesday as part of an EU plan to abolish roaming charges by June 2017, after Brussels officials were forced into a U-turn.</p> <a href="https://www.theguardian.com/business/2016/sep/21/european-commision-mobile-phone-roaming-charges-telecoms">Continue reading...</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[The post-referendum economy: data defies gloomy UK predictions]]></title>
+            <link>https://www.theguardian.com/business/2016/sep/21/post-referendum-gloom-fears-confounded-economic-evidence</link>
+            <guid>https://www.theguardian.com/business/2016/sep/21/post-referendum-gloom-fears-confounded-economic-evidence</guid>
+            <pubDate>Wed, 21 Sep 2016 14:36:27 GMT</pubDate>
+            <content:encoded><![CDATA[<p>Guardian analysis of key economic figures gives rounded assessment three months after the vote</p><p>• Help fund our journalism by becoming a <a href="https://membership.theguardian.com/uk/supporter?INTCMP=gdnwb_copts_editorial_mem_brexitdashboardstoryfooter_footer">Guardian supporter</a></p><p> <span>Related: </span><a href="https://www.theguardian.com/business/ng-interactive/2016/sep/21/how-has-the-brexit-vote-affected-the-uk-economy-september-verdict">How has the Brexit vote affected the UK economy? September verdict</a> </p><p>Fears that Britain will slide into a post-referendum recession have been allayed after a Guardian analysis showed the latest news on the economy has confounded analysts’ gloomy expectations, with consumer spending strong, unemployment low and the housing market holding steady.</p> <a href="https://www.theguardian.com/business/2016/sep/21/post-referendum-gloom-fears-confounded-economic-evidence">Continue reading...</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[The Lib Dem Press Office And 17 Times It Was The Most Entertaining Thing In British Politics]]></title>
+            <link>http://www.huffingtonpost.co.uk/2016/09/21/the-lib-dem-press-office_n_12118424.html?utm_hp_ref=uk-politics&amp;ir=UK+Politics</link>
+            <guid>http://www.huffingtonpost.co.uk/2016/09/21/the-lib-dem-press-office_n_12118424.html?utm_hp_ref=uk-politics&amp;ir=UK+Politics</guid>
+            <pubDate>Wed, 21 Sep 2016 14:10:24 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="embed-asset embed" data-type="embed-asset" data-provider="Embed" data-title=""><br />
+<div class="embed-code"><div id="vidible_14744768681" class="vdb_player vdb_56c60b67e4b0983aa64bf16c56be00124076e70ee4171d93" vdb_params="m.fwkeyvalues=sponsorship%3DSPONSORSHIP_NAME&amp;m.fwsitesection=composer"></div><br />
+     <br />
+<p>With <a href="http://www.huffingtonpost.co.uk/news/eu-referendum/">Brexit</a>, a new PM and the ongoing conflict in the <a href="http://www.huffingtonpost.co.uk/news/labour-party/">Labour party</a>, you&rsquo;d be forgiven for forgetting there was not too long ago, a third big contender in the realm of British politics.</p><br />
+<p>Remember the <a href="http://www.huffingtonpost.co.uk/news/liberal-democrats/">Lib Dems</a>?</p><br />
+<p>Y&rsquo;know, the yellow ones who fell from coalition big league to eight-seat minority overnight on <a href="http://www.huffingtonpost.co.uk/news/general-election-2015/">one fateful night</a> last year.</p><br />
+<p>Here&rsquo;s a reminder of what that did to <a href="http://www.huffingtonpost.co.uk/2015/05/08/danny-alexander-sad-face_n_7238920.html">Danny Alexander&rsquo;s face...</a></p><br />
+<br />
+<p>Since then they&rsquo;ve replaced <a href="http://www.huffingtonpost.co.uk/news/nick-clegg">Nick Clegg</a> and have been soldiering on with <a href="http://www.huffingtonpost.co.uk/news/tim-farron/">Tim Farron</a> at the helm.</p><br />
+<p>While the party may have struggled to make itself heard above the rhetoric of Brexit and the absurdities of the Labour leadership contest, there has been one facet of the party that has been consistently nailing it.</p><br />
+<p>Their <a href="https://twitter.com/LibDemPress" target="_blank">press office</a>.</p><br />
+<p>You wouldn&rsquo;t think it but the team&rsquo;s Twitter maestro(s) have been throwing all kinds of shade and sass into the digital ether of late.</p><br />
+<p>Here&rsquo;s a selection of their finer moments...</p><br />
+<h3>1) Trolling Labour. Hard.</h3><br />
+<div class="embed-asset embed" data-type="embed-asset" data-provider="Embed" data-title=""><br />
+<div class="embed-code"><blockquote class="twitter-tweet" align="center"><p lang="en" dir="ltr">You can’t trust the Lib Dems: they say they oppose the Tories but propped them up in government <a href="https://twitter.com/hashtag/ldconf?src=hash">#ldconf</a></p>&mdash; Labour Press Team (@labourpress) <a href="https://twitter.com/labourpress/status/778231476987060224">September 20, 2016</a></blockquote><br />
+</div></div><br />
+     <br />
+<div class="embed-asset embed" data-type="embed-asset" data-provider="Embed" data-title=""><br />
+<div class="embed-code"><blockquote class="twitter-tweet" align="center"><p lang="en" dir="ltr">Whereas you seem to have no plans to ever be in government again. You aren't even functioning as an opposition. <a href="https://t.co/VDQoiHcXQO">https://t.co/VDQoiHcXQO</a></p>&mdash; Lib Dem Press Office (@LibDemPress) <a href="https://twitter.com/LibDemPress/status/778258143633629186">September 20, 2016</a></blockquote><br />
+</div></div><br />
+     <br />
+<div class="embed-asset embed" data-type="embed-asset" data-provider="Embed" data-title=""><br />
+<div class="embed-code"><blockquote class="twitter-tweet" align="center"><p lang="en" dir="ltr">My fav Twitter feud <a href="https://t.co/Etr4izHQw6">https://t.co/Etr4izHQw6</a></p>&mdash; Nick M Duffy (@NickMDuffy) <a href="https://twitter.com/NickMDuffy/status/778262193737437184">September 20, 2016</a></blockquote><br />
+</div></div><br />
+     <br />
+<div class="embed-asset embed" data-type="embed-asset" data-provider="Embed" data-title=""><br />
+<div class="embed-code"><blockquote class="twitter-tweet" align="center" data-conversation="none"><p lang="en" dir="ltr"><a href="https://twitter.com/NickMDuffy">@NickMDuffy</a> sort of.  They've got crap chat.</p>&mdash; Lib Dem Press Office (@LibDemPress) <a href="https://twitter.com/LibDemPress/status/778262477180141568">September 20, 2016</a></blockquote><br />
+</div></div><br />
+     <br />
+<div class="embed-asset embed" data-type="embed-asset" data-provider="Embed" data-title=""><br />
+<div class="embed-code"><blockquote class="twitter-tweet" align="center"><p lang="en" dir="ltr">.<a href="https://twitter.com/labourpress">@LabourPress</a> You gonna take that?<a href="https://t.co/jC0IirZNWi">https://t.co/jC0IirZNWi</a></p>&mdash; Nick M Duffy (@NickMDuffy) <a href="https://twitter.com/NickMDuffy/status/778268302778961920">September 20, 2016</a></blockquote><br />
+</div></div><br />
+     <br />
+<div class="embed-asset embed" data-type="embed-asset" data-provider="Embed" data-title=""><br />
+<div class="embed-code"><blockquote class="twitter-tweet" align="center" data-conversation="none"><p lang="en" dir="ltr"><a href="https://twitter.com/NickMDuffy">@NickMDuffy</a> <a href="https://twitter.com/labourpress">@labourpress</a> they will.  They don't oppose anything these days</p>&mdash; Lib Dem Press Office (@LibDemPress) <a href="https://twitter.com/LibDemPress/status/778268568236527616">September 20, 2016</a></blockquote><br />
+</div></div><br />
+     <br />
+<p> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p><br />
+<h3>2) This excellent comeback to &lsquo;chubby&rsquo;.</h3><br />
+<div class="embed-asset embed" data-type="embed-asset" data-provider="Embed" data-title=""><br />
+<div class="embed-code"><blockquote class="twitter-tweet" align="center"><p lang="en" dir="ltr">I wanna smack Tim Farron's ugly smug face</p>&mdash; chubby mer-princess (@whatkatie_did) <a href="https://twitter.com/whatkatie_did/status/670348742315384833">November 27, 2015</a></blockquote><br />
+</div></div><br />
+     <br />
+<div class="embed-asset embed" data-type="embed-asset" data-provider="Embed" data-title=""><br />
+<div class="embed-code"><blockquote class="twitter-tweet" align="center" data-conversation="none"><p lang="en" dir="ltr"><a href="https://twitter.com/whatkatie_did">@whatkatie_did</a> we'll put you down as a maybe?</p>&mdash; Lib Dem Press Office (@LibDemPress) <a href="https://twitter.com/LibDemPress/status/670356866858401793">November 27, 2015</a></blockquote><br />
+</div></div><br />
+     <br />
+<h3>&nbsp;3) Knocking down the old &lsquo;too much time on their hands&rsquo; line.</h3><br />
+<p>&nbsp;</p><br />
+<div class="embed-asset embed" data-type="embed-asset" data-provider="Embed" data-title=""><br />
+<div class="embed-code"><blockquote class="twitter-tweet" align="center"><p lang="en" dir="ltr">Important development at NEC - the sandwiches are apparently finished</p>&mdash; Laura Kuenssberg (@bbclaurak) <a href="https://twitter.com/bbclaurak/status/778295022164860929">September 20, 2016</a></blockquote><br />
+</div></div><br />
+     <br />
+<div class="embed-asset embed" data-type="embed-asset" data-provider="Embed" data-title=""><br />
+<div class="embed-code"><blockquote class="twitter-tweet" align="center" data-conversation="none"><p lang="en" dir="ltr"><a href="https://twitter.com/bbclaurak">@bbclaurak</a> same here... <a href="https://t.co/qO5L7cR25m">pic.twitter.com/qO5L7cR25m</a></p>&mdash; Lib Dem Press Office (@LibDemPress) <a href="https://twitter.com/LibDemPress/status/778297315316695040">September 20, 2016</a></blockquote><br />
+</div></div><br />
+     <br />
+<div class="embed-asset embed" data-type="embed-asset" data-provider="Embed" data-title=""><br />
+<div class="embed-code"><blockquote class="twitter-tweet" align="center"><p lang="en" dir="ltr">The Lib Dems are busy <a href="https://t.co/chChBEWESI">https://t.co/chChBEWESI</a></p>&mdash; Jon Brady (@jonbradyphoto) <a href="https://twitter.com/jonbradyphoto/status/778298229611962372">September 20, 2016</a></blockquote><br />
+</div></div><br />
+     <br />
+<div class="embed-asset embed" data-type="embed-asset" data-provider="Embed" data-title=""><br />
+<div class="embed-code"><blockquote class="twitter-tweet" align="center" data-conversation="none"><p lang="en" dir="ltr"><a href="https://twitter.com/jonbradyphoto">@jonbradyphoto</a> yep. This took hours.</p>&mdash; Lib Dem Press Office (@LibDemPress) <a href="https://twitter.com/LibDemPress/status/778311910135595008">September 20, 2016</a></blockquote><br />
+</div></div><br />
+     <br />
+<p>Jon should have left it there but didn&rsquo;t.</p><br />
+<div class="embed-asset embed" data-type="embed-asset" data-provider="Embed" data-title=""><br />
+<div class="embed-code"><blockquote class="twitter-tweet" align="center" data-conversation="none"><p lang="de" dir="ltr"><a href="https://twitter.com/LibDemPress">@LibDemPress</a> Big sandwich?</p>&mdash; Jon Brady (@jonbradyphoto) <a href="https://twitter.com/jonbradyphoto/status/778323888359047169">September 20, 2016</a></blockquote><br />
+</div></div><br />
+     <br />
+<h3>4) This sarcastic piece of art about Grant Shapps.</h3><br />
+<div class="embed-asset embed" data-type="embed-asset" data-provider="Embed" data-title=""><br />
+<div class="embed-code"><blockquote class="twitter-tweet" align="center"><p lang="en" dir="ltr">Due to popular demand. The Lib Dems press release on Grant Shapps in full. <a href="http://t.co/H6ZXB9zoSE">pic.twitter.com/H6ZXB9zoSE</a></p>&mdash; Lib Dem Press Office (@LibDemPress) <a href="https://twitter.com/LibDemPress/status/590571514463916032">April 21, 2015</a></blockquote><br />
+</div></div><br />
+     <br />
+<h3>5) Taking the piss out of #traingate in glorious self-deprecating style.</h3><br />
+<div class="embed-asset embed" data-type="embed-asset" data-provider="Embed" data-title=""><br />
+<div class="embed-code"><blockquote class="twitter-tweet" align="center"><p lang="en" dir="ltr">. <a href="https://twitter.com/jeremycorbyn">@jeremycorbyn</a> we've gained another two seats. <a href="https://twitter.com/hashtag/traingate?src=hash">#traingate</a> <a href="https://t.co/d2xr3Myu0U">pic.twitter.com/d2xr3Myu0U</a></p>&mdash; Lib Dem Press Office (@LibDemPress) <a href="https://twitter.com/LibDemPress/status/778289442897428480">September 20, 2016</a></blockquote><br />
+</div></div><br />
+     <br />
+<p>Although not everyone got it.</p><br />
+<div class="embed-asset embed" data-type="embed-asset" data-provider="Embed" data-title=""><br />
+<div class="embed-code"><blockquote class="twitter-tweet" align="center" data-conversation="none"><p lang="en" dir="ltr"><a href="https://twitter.com/LibDemPress">@LibDemPress</a> <a href="https://twitter.com/jeremycorbyn">@jeremycorbyn</a> But you still only have 8 of them in Parliament...</p>&mdash; James (@JamesKenney1998) <a href="https://twitter.com/JamesKenney1998/status/778290627071049728">September 20, 2016</a></blockquote><br />
+</div></div><br />
+     <br />
+<div class="embed-asset embed" data-type="embed-asset" data-provider="Embed" data-title=""><br />
+<div class="embed-code"><blockquote class="twitter-tweet" align="center" data-conversation="none"><p lang="und" dir="ltr"><a href="https://twitter.com/JamesKenney1998">@JamesKenney1998</a> <a href="https://twitter.com/LibDemPress">@LibDemPress</a> <a href="https://twitter.com/jeremycorbyn">@jeremycorbyn</a> <a href="https://t.co/EkbUXVnil8">pic.twitter.com/EkbUXVnil8</a></p>&mdash; Dan Kelly (@ObiDanKelnobi) <a href="https://twitter.com/ObiDanKelnobi/status/778291576367943680">September 20, 2016</a></blockquote><br />
+</div></div><br />
+     <br />
+<h3>6) And while we&rsquo;re on the subject of #traingate...</h3><br />
+<div class="embed-asset embed" data-type="embed-asset" data-provider="Embed" data-title=""><br />
+<div class="embed-code"><blockquote class="twitter-tweet" align="center"><p lang="en" dir="ltr">Virgin Trains disputes Jeremy Corbyn claim over lack of seats <a href="https://t.co/5CDBYaBDH0">https://t.co/5CDBYaBDH0</a></p>&mdash; The Guardian (@guardian) <a href="https://twitter.com/guardian/status/768084245231337472">August 23, 2016</a></blockquote><br />
+</div></div><br />
+     <br />
+<div class="embed-asset embed" data-type="embed-asset" data-provider="Embed" data-title=""><br />
+<div class="embed-code"><blockquote class="twitter-tweet" align="center"><p lang="en" dir="ltr">I suppose at least he intended not to take seats on this occasion... <a href="https://t.co/4bo73bhdcE">https://t.co/4bo73bhdcE</a></p>&mdash; Lib Dem Press Office (@LibDemPress) <a href="https://twitter.com/LibDemPress/status/768086057678147584">August 23, 2016</a></blockquote><br />
+</div></div><br />
+     <br />
+<h3>7) This no nonsense Corbyn putdown.</h3><br />
+<div class="embed-asset embed" data-type="embed-asset" data-provider="Embed" data-title=""><br />
+<div class="embed-code"><blockquote class="twitter-tweet" align="center"><p lang="en" dir="ltr"><a href="https://twitter.com/LibDemPress">@LibDemPress</a> Tim's speech all well and good but what we really want is 5 sassy reasons why sensible Labourites should jump ship...</p>&mdash; Jake Johnstone (@hijakejohnstone) <a href="https://twitter.com/hijakejohnstone/status/778268741784244224">September 20, 2016</a></blockquote><br />
+</div></div><br />
+     <br />
+<div class="embed-asset embed" data-type="embed-asset" data-provider="Embed" data-title=""><br />
+<div class="embed-code"><blockquote class="twitter-tweet" align="center" data-conversation="none"><p lang="en" dir="ltr"><a href="https://twitter.com/hijakejohnstone">@hijakejohnstone</a> 1)lab are failing as opposition 2)that won't change 3)we can be real opposition 4)only libdem revival ousts Tories 5)corbyn</p>&mdash; Lib Dem Press Office (@LibDemPress) <a href="https://twitter.com/LibDemPress/status/778269933809627136">September 20, 2016</a></blockquote><br />
+</div></div><br />
+     <br />
+<h3>7) This response to being blocked by George Osborne.</h3><br />
+<div class="embed-asset embed" data-type="embed-asset" data-provider="Embed" data-title=""><br />
+<div class="embed-code"><blockquote class="twitter-tweet" align="center"><p lang="en" dir="ltr">Honestly George, let it go. <a href="https://twitter.com/hashtag/budget2015?src=hash">#budget2015</a> <a href="http://t.co/Cg4UjxJmHx">pic.twitter.com/Cg4UjxJmHx</a></p>&mdash; Lib Dem Press Office (@LibDemPress) <a href="https://twitter.com/LibDemPress/status/618724842855116800">July 8, 2015</a></blockquote><br />
+</div></div><br />
+     <br />
+<h3>8) And another...</h3><br />
+<div class="embed-asset embed" data-type="embed-asset" data-provider="Embed" data-title=""><br />
+<div class="embed-code"><blockquote class="twitter-tweet" align="center"><p lang="en" dir="ltr">Osborne abolishing the Liberal Democrats? Given he's missing all his other targets we are not that worried. <a href="https://twitter.com/hashtag/Budget2016?src=hash">#Budget2016</a></p>&mdash; Lib Dem Press Office (@LibDemPress) <a href="https://twitter.com/LibDemPress/status/710096253158342656">March 16, 2016</a></blockquote><br />
+</div></div><br />
+     <br />
+<h3>9) They may be small but they are still mighty.</h3><br />
+<div class="embed-asset embed" data-type="embed-asset" data-provider="Embed" data-title=""><br />
+<div class="embed-code"><blockquote class="twitter-tweet" align="center"><p lang="en" dir="ltr">you haven't even got enough MPs to set up a football team, stop <a href="https://t.co/CN28XLxsbX">https://t.co/CN28XLxsbX</a></p>&mdash; ryan   (@ryxnf) <a href="https://twitter.com/ryxnf/status/778263713275121664">September 20, 2016</a></blockquote><br />
+</div></div><br />
+     <br />
+<div class="embed-asset embed" data-type="embed-asset" data-provider="Embed" data-title=""><br />
+<div class="embed-code"><blockquote class="twitter-tweet" align="center" data-conversation="none"><p lang="en" dir="ltr"><a href="https://twitter.com/ryxnf">@ryxnf</a> <a href="https://twitter.com/LibDems">@LibDems</a> we can do 5 a side and we will beat you.</p>&mdash; Lib Dem Press Office (@LibDemPress) <a href="https://twitter.com/LibDemPress/status/778263852127547392">September 20, 2016</a></blockquote><br />
+</div></div><br />
+     <br />
+<h3>10) Before they were knocking Corbyn, they were doing the same to Ed.</h3><br />
+<div class="embed-asset embed" data-type="embed-asset" data-provider="Embed" data-title=""><br />
+<div class="embed-code"><blockquote class="twitter-tweet" align="center"><p lang="en" dir="ltr">.<a href="https://twitter.com/Ed_Miliband">@Ed_Miliband</a>'s five promises to Britain finally revealed.... <a href="http://t.co/p1sWHLH386">pic.twitter.com/p1sWHLH386</a></p>&mdash; Lib Dem Press Office (@LibDemPress) <a href="https://twitter.com/LibDemPress/status/576800724295749632">March 14, 2015</a></blockquote><br />
+</div></div><br />
+     <br />
+<h3>11) Acting as Labour&rsquo;s Ken &lsquo;Hitler&rsquo; Livingstone klaxon.</h3><br />
+<div class="embed-asset embed" data-type="embed-asset" data-provider="Embed" data-title=""><br />
+<div class="embed-code"><blockquote class="twitter-tweet" align="center"><p lang="en" dir="ltr">Ken Livingstone there, who clearly thinks the <a href="https://twitter.com/labourpress">@labourpress</a> team aren't dealing with enough already today.... <a href="https://twitter.com/hashtag/VictoriaLIVE?src=hash">#VictoriaLIVE</a></p>&mdash; Lib Dem Press Office (@LibDemPress) <a href="https://twitter.com/LibDemPress/status/773094527989080064">September 6, 2016</a></blockquote><br />
+</div></div><br />
+     <br />
+<div class="embed-asset embed" data-type="embed-asset" data-provider="Embed" data-title=""><br />
+<div class="embed-code"><blockquote class="twitter-tweet" align="center"><p lang="en" dir="ltr">Oh FFS, he's on Sky more often than <a href="https://twitter.com/KayBurley">@KayBurley</a> <a href="https://t.co/8Z5kH1AvIG">pic.twitter.com/8Z5kH1AvIG</a></p>&mdash; Kevin Schofield (@PolhomeEditor) <a href="https://twitter.com/PolhomeEditor/status/773531556698845185">September 7, 2016</a></blockquote><br />
+</div></div><br />
+     <br />
+<div class="embed-asset embed" data-type="embed-asset" data-provider="Embed" data-title=""><br />
+<div class="embed-code"><blockquote class="twitter-tweet" align="center"><p lang="en" dir="ltr">Cc <a href="https://twitter.com/labourpress">@labourpress</a>, guys it's happening AGAIN... It's not helping things... <a href="https://t.co/IOaYtfQEXg">https://t.co/IOaYtfQEXg</a></p>&mdash; Lib Dem Press Office (@LibDemPress) <a href="https://twitter.com/LibDemPress/status/773535031818088449">September 7, 2016</a></blockquote><br />
+</div></div><br />
+     <br />
+<h3>12) Ripping Twitter uber-troll Steve Brookstein.</h3><br />
+<p>&nbsp;</p><br />
+<div class="embed-asset embed" data-type="embed-asset" data-provider="Embed" data-title=""><br />
+<div class="embed-code"><blockquote class="twitter-tweet" align="center"><p lang="en" dir="ltr">Tim Farron is just bitter that lib/dems have been dropped.</p>&mdash; Steve Brookstein (@stevebrookstein) <a href="https://twitter.com/stevebrookstein/status/659392981238198272">October 28, 2015</a></blockquote><br />
+</div></div><br />
+     <br />
+<div class="embed-asset embed" data-type="embed-asset" data-provider="Embed" data-title=""><br />
+<div class="embed-code"><blockquote class="twitter-tweet" align="center" data-conversation="none"><p lang="en" dir="ltr"><a href="https://twitter.com/stevebrookstein">@stevebrookstein</a> fancy a gig at Lib Dem conference next year?</p>&mdash; Lib Dem Press Office (@LibDemPress) <a href="https://twitter.com/LibDemPress/status/659395784937459714">October 28, 2015</a></blockquote><br />
+</div></div><br />
+     <br />
+<h3>13) This superb dig at Corbyn&rsquo;s revolting shadow cabinet.</h3><br />
+<div class="embed-asset embed" data-type="embed-asset" data-provider="Embed" data-title=""><br />
+<div class="embed-code"><blockquote class="twitter-tweet" align="center"><p lang="en" dir="ltr">We'd call for Paul Flynn to resign from the Shadow Cabinet but that’s not as big a thing as it used to be <a href="https://t.co/DOELSOWIoR">https://t.co/DOELSOWIoR</a></p>&mdash; Lib Dem Press Office (@LibDemPress) <a href="https://twitter.com/LibDemPress/status/770743953318612996">August 30, 2016</a></blockquote><br />
+</div></div><br />
+     <br />
+<h3>14) They&rsquo;re clearly loving the Labour leadership contest.</h3><br />
+<div class="embed-asset embed" data-type="embed-asset" data-provider="Embed" data-title=""><br />
+<div class="embed-code"><blockquote class="twitter-tweet" align="center"><p lang="en" dir="ltr">If you're still arguing about the EU referendum or haven't spoken to someone since, DM us / email newsbeat@bbc.co.uk <a href="https://t.co/Hx93Jlpzpz">pic.twitter.com/Hx93Jlpzpz</a></p>&mdash; BBC Newsbeat (@BBCNewsbeat) <a href="https://twitter.com/BBCNewsbeat/status/768817340276436993">August 25, 2016</a></blockquote><br />
+</div></div><br />
+     <br />
+<div class="embed-asset embed" data-type="embed-asset" data-provider="Embed" data-title=""><br />
+<div class="embed-code"><blockquote class="twitter-tweet" align="center"><p lang="en" dir="ltr">cc <a href="https://twitter.com/jeremycorbyn">@jeremycorbyn</a> ,<a href="https://twitter.com/owensmith2016">@owensmith2016</a>  one for you? <a href="https://t.co/BwgGqqav38">https://t.co/BwgGqqav38</a></p>&mdash; Lib Dem Press Office (@LibDemPress) <a href="https://twitter.com/LibDemPress/status/768819292964057088">August 25, 2016</a></blockquote><br />
+</div></div><br />
+     <br />
+<h3>15) Great one-liners.</h3><br />
+<div class="embed-asset embed" data-type="embed-asset" data-provider="Embed" data-title=""><br />
+<div class="embed-code"><blockquote class="twitter-tweet" align="center"><p lang="en" dir="ltr">Now here's a thing. Lord Sainsbury gave more than £2m to Labour AND the Lib Dems between April and June. <a href="https://t.co/FNETga1vdm">pic.twitter.com/FNETga1vdm</a></p>&mdash; Kevin Schofield (@PolhomeEditor) <a href="https://twitter.com/PolhomeEditor/status/768759147647143936">August 25, 2016</a></blockquote><br />
+</div></div><br />
+     <br />
+<div class="embed-asset embed" data-type="embed-asset" data-provider="Embed" data-title=""><br />
+<div class="embed-code"><blockquote class="twitter-tweet" align="center" data-conversation="none"><p lang="en" dir="ltr"><a href="https://twitter.com/PolhomeEditor">@PolhomeEditor</a> Wonder why the Libs got £25 less?</p>&mdash; Kate McCann (@KateEMcCann) <a href="https://twitter.com/KateEMcCann/status/768761776272007168">August 25, 2016</a></blockquote><br />
+</div></div><br />
+     <br />
+<div class="embed-asset embed" data-type="embed-asset" data-provider="Embed" data-title=""><br />
+<div class="embed-code"><blockquote class="twitter-tweet" align="center" data-conversation="none"><p lang="en" dir="ltr"><a href="https://twitter.com/KateEMcCann">@KateEMcCann</a> <a href="https://twitter.com/PolhomeEditor">@PolhomeEditor</a> nectar points?</p>&mdash; Lib Dem Press Office (@LibDemPress) <a href="https://twitter.com/LibDemPress/status/768787172925313024">August 25, 2016</a></blockquote><br />
+</div></div><br />
+     <br />
+<h3>16) Not taking any crap.</h3><br />
+<div class="embed-asset embed" data-type="embed-asset" data-provider="Embed" data-title=""><br />
+<div class="embed-code"><blockquote class="twitter-tweet" align="center"><p lang="en" dir="ltr">If anyone sees Tim Farron (and don't tweet &quot;WHO?&quot;) please remind him it'll soon be the start of a new term at big school <a href="https://twitter.com/hashtag/thanksawfully?src=hash">#thanksawfully</a></p>&mdash; @Parlez_me_nTory (@Parlez_me_nTory) <a href="https://twitter.com/Parlez_me_nTory/status/766265104639856640">August 18, 2016</a></blockquote><br />
+</div></div><br />
+     <br />
+<div class="embed-asset embed" data-type="embed-asset" data-provider="Embed" data-title=""><br />
+<div class="embed-code"><blockquote class="twitter-tweet" align="center" data-conversation="none"><p lang="en" dir="ltr"><a href="https://twitter.com/Parlez_me_nTory">@Parlez_me_nTory</a> are you off to big school this year?</p>&mdash; Lib Dem Press Office (@LibDemPress) <a href="https://twitter.com/LibDemPress/status/766284832490024960">August 18, 2016</a></blockquote><br />
+</div></div><br />
+     <br />
+<h3>17) And to finish with...&nbsp;</h3><br />
+<div class="embed-asset embed" data-type="embed-asset" data-provider="Embed" data-title=""><br />
+<div class="embed-code"><blockquote class="twitter-tweet" align="center"><p lang="en" dir="ltr">Boris Johnson is going to have to share Chevening- the grace &amp; favour house for foreign secretary- with David Davis and Liam fox. <a href="https://twitter.com/hashtag/ouch?src=hash">#ouch</a></p>&mdash; Anushka Asthana (@GuardianAnushka) <a href="https://twitter.com/GuardianAnushka/status/754990657245175808">July 18, 2016</a></blockquote><br />
+</div></div><br />
+     <br />
+<div class="embed-asset embed" data-type="embed-asset" data-provider="Embed" data-title=""><br />
+<div class="embed-code"><blockquote class="twitter-tweet" align="center"><p lang="en" dir="ltr">This next series of Love Island is looking a bit rubbish. <a href="https://t.co/ZWWqNLClYj">https://t.co/ZWWqNLClYj</a></p>&mdash; Lib Dem Press Office (@LibDemPress) <a href="https://twitter.com/LibDemPress/status/755002680179847173">July 18, 2016</a></blockquote><br />
+</div></div><br />
+     <br />
+<p>And if you enjoyed that...</p><br />
+<div class="embed-asset embed" data-type="embed-asset" data-provider="Embed" data-title=""><br />
+<div class="embed-code"><a href="http://www.huffingtonpost.co.uk/entry/when-life-imitates-art_uk_57c80032e4b01e359229da86" data-iframely-url="//dk79lclgtez2i.cloudfront.net/uyOWPo" data-template="inline"></a></div></div><br />
+     <br />
+<div class="embed-asset embed" data-type="embed-asset" data-provider="Embed" data-title=""><br />
+<div class="embed-code"><a href="http://www.huffingtonpost.co.uk/entry/ukip-douglas-carswell_uk_57e17d7ae4b028e52a12a1c0" data-iframely-url="//dk79lclgtez2i.cloudfront.net/8iFOXV" data-template="inline"></a></div></div><br />
+     <br />
+ ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Philip Pullman calls for UK to adopt EU plans to protect authors' royalties]]></title>
+            <link>https://www.theguardian.com/books/2016/sep/21/philip-pullman-calls-for-uk-to-adopt-eu-plans-to-protect-authors-royalties</link>
+            <guid>https://www.theguardian.com/books/2016/sep/21/philip-pullman-calls-for-uk-to-adopt-eu-plans-to-protect-authors-royalties</guid>
+            <pubDate>Wed, 21 Sep 2016 13:30:21 GMT</pubDate>
+            <content:encoded><![CDATA[<p>His Dark Materials author has appealed for EU directive to be introduced in Britain, to block ‘unfair practices that currently prevent authors making a living’</p><p>His Dark Materials author Philip Pullman has welcomed a “badly need[ed]” new proposal from the European Commission that would protect authors who achieve unexpected success from missing out on royalties.</p><p>Pullman was speaking as president of the Society of Authors, which is pressing the UK government to adopt clauses from the <a href="http://ec.europa.eu/transparency/regdoc/rep/1/2016/EN/1-2016-593-EN-F1-1.PDF">new EU draft directive on the digital single market</a> in order to “avoid unfair practices that currently prevent authors making a living from writing”. The Society highlighted the case of Horrid Henry author Francesca Simon, who has not received any royalties from the television and film adaptations of her <a href="https://www.theguardian.com/childrens-books-site/2016/may/25/francesca-simon-i-love-writing-in-the-first-person">Horrid Henry books</a>, despite the series being broadcast in 44 countries with more than 1.5m DVDs sold.</p> <a href="https://www.theguardian.com/books/2016/sep/21/philip-pullman-calls-for-uk-to-adopt-eu-plans-to-protect-authors-royalties">Continue reading...</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[UK indicating Brexit talks could start in January, February - Irish PM]]></title>
             <link>http://feeds.reuters.com/~r/Reuters/UKTopNews/~3/92S26j-ZOO8/uk-britain-eu-ireland-idUKKCN11R1M7</link>
             <guid>http://feeds.reuters.com/~r/Reuters/UKTopNews/~3/92S26j-ZOO8/uk-britain-eu-ireland-idUKKCN11R1M7</guid>
+            <pubDate>Wed, 21 Sep 2016 13:22:29 GMT</pubDate>
+            <content:encoded><![CDATA[DUBLIN (Reuters) - Members of the British government have indicated that they may be ready to launch formal negotiations to leave the European Union in late January or February next year, Irish Prime Minister Enda Kenny said on Wednesday.<div class="feedflare"> <a href="http://feeds.reuters.com/~ff/Reuters/UKTopNews?a=92S26j-ZOO8:YmeRIJ0J8D8:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/Reuters/UKTopNews?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.reuters.com/~ff/Reuters/UKTopNews?a=92S26j-ZOO8:YmeRIJ0J8D8:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/Reuters/UKTopNews?i=92S26j-ZOO8:YmeRIJ0J8D8:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.reuters.com/~ff/Reuters/UKTopNews?a=92S26j-ZOO8:YmeRIJ0J8D8:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/Reuters/UKTopNews?i=92S26j-ZOO8:YmeRIJ0J8D8:V_sGLiPBpWU" border="0"></img></a> </div><img src="http://feeds.feedburner.com/~r/Reuters/UKTopNews/~4/92S26j-ZOO8" height="1" width="1" alt=""/>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Ignore the naysayers. America can handle 110,000 more refugees | Aryeh Neier]]></title>
-            <link>https://www.theguardian.com/commentisfree/2016/sep/16/obama-refugees-increase-proposal-us-capable-resettling</link>
-            <guid>https://www.theguardian.com/commentisfree/2016/sep/16/obama-refugees-increase-proposal-us-capable-resettling</guid>
+            <title><![CDATA[Labour NEC Report, 20th September 2016]]></title>
+            <link>http://www.huffingtonpost.co.uk/alice-perry/labour-nec-report-20th-se_b_12116132.html?utm_hp_ref=uk-politics&amp;ir=UK+Politics</link>
+            <guid>http://www.huffingtonpost.co.uk/alice-perry/labour-nec-report-20th-se_b_12116132.html?utm_hp_ref=uk-politics&amp;ir=UK+Politics</guid>
+            <pubDate>Wed, 21 Sep 2016 11:44:43 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>Leader's Report</strong><br />
+<br />
+Jeremy Corbyn gave the Leader's report. He talked about his work to make politics more engaging. He welcomed the increase in Labour Party membership and talked about the positive difference new members could make, particularly in parts of the country where Labour has not traditionally been active. He thanked Labour Party staff for their continued hard work. He spoke about the importance of uniting the party after the leadership election. He thanked the NEC for all their work on Party Reform and welcomed discussions about shadow cabinet elections. He also touched on a range of topics including Orgreave, tackling anti-Semitism, workplace 2020, economic development, Brexit, Post Office closures and justice for blacklisted workers. He took questions on government education policy, grammar schools, tackling bullying and harassment, recent TV documentaries, 2017 elections, gender based violence in the UK and internationally, devolution, preparing for a snap general election, Lords Reform and Labour's constitutional convention. The NEC endorsed Jeremy's comments on support for staff. The NEC also agreed that after the leadership election people must put aside their differences and unite to form a credible and effective opposition. <br />
+<br />
+<strong>Deputy Leader's Report</strong><br />
+<br />
+Tom Watson's report covered a range of areas. He introduced a new safeguarding policy for young members, agreed a social media code of conduct to tackle online abuse, talked about the significant improvements Labour is making to digital campaigning, training new community organisers and Party Reform.<br />
+<br />
+The NEC agreed a number of key rule changes and new guidance notes to be put to Labour Party Conference this weekend:<br />
+<strong><br />
+New Powers for Women's Conference</strong><br />
+<br />
+The NEC agreed to establish a formal policy-making Women's Conference. Important campaigns on issues like the minimum wage, the Living wage, fairer pensions, affordable childcare and protecting the NHS have been supported and driven by women in the Labour movement at Women's conference. The exact details have yet to be finalised but this commitment was welcomed by everyone as an important step forward.<br />
+<br />
+<strong>Support for Councillors</strong><br />
+<br />
+It was very positive that the NEC supported my Local Government Party Reform Paper, with recommendations to make our processes and procedures fairer and more transparent, increase diversity and better support Councillors. Thank you to the thousands of Councillors over the past year who contributed to the consultation and final report.  <br />
+<br />
+New changes to guidance includes:<br />
+•	Family members should not sit on assessment team interview panels for their own spouses or relatives.<br />
+•	All assessment team interview panels should be chaired by somebody from a different local authority area.<br />
+•	Sitting councillors should face an assessment interview at least every two terms.<br />
+•	Shortlisting meetings will decide whether to automatically shortlist sitting councillors individually in multi-member wards.<br />
+•	Labour Group leaders may be elected for a four year term with a right of recall triggered by two-thirds of the Labour Group if the Council has adopted a four year 'strong leader' model.<br />
+•	Labour Group leaders will be entitled to Labour Party membership lists for the area they represent.<br />
+•	Increase training and support for under-represented groups in local government.<br />
+•	Work to phase-out all male-member wards.<br />
+•	Young Labour groups may be constituted along local or combined authority boundaries.<br />
+•	Consider further representation on NPF for councillors and ALC elected representatives.<br />
+•	Annual Report to the ALC from the General Secretary on the use of the Levy.<br />
+<br />
+New rule changes we agreed included:<br />
+<br />
+•	Combined Authority Mayors and PCCs to be accountable to CLPs, Labour Groups and Affiliates with regular reports to those units and to regional conferences. <br />
+•	Combined Authority Mayors and PCCs to uphold Labour's commitment to diversity and under-representation in any appointments they make. <br />
+•	Councils and Labour Group Executives should reflect the wider community and gender balance of the executive should reflect the group as a whole.<br />
+•	Members of the Labour Group shall not support any proposal to set an illegal budget.<br />
+<br />
+We also asked for two additional places for local government representatives on the NEC. Decisions about expanding or reforming NEC membership has been deferred to a future meeting. I will keep pressing the case for more NEC places for Councillors. <br />
+<br />
+<strong>Devolution: Scotland and Wales</strong><br />
+The NEC agreed to devolve significant new powers to the Labour Party in Scotland and Wales. This includes:<br />
+•	The Scottish and Welsh Labour Party each to be directly represented with voting rights on the NEC by a frontbench member of the Scottish Parliament and Welsh Assembly.<br />
+•	The Leaders of the Scottish and Welsh Labour Party to attend Clause V meetings.<br />
+•	Scottish and Welsh Executives to administer the procedures and selection of Westminster Parliamentary Candidates in Scotland and Wales.<br />
+•	Scottish and Welsh Executives to manage and administer selection of candidates for devolved institutions and local government in Scotland and Wales.<br />
+•	Scottish and Welsh Executive to set procedural rules for the election of the Leader and Deputy Leader of the Scottish and Welsh Labour Party.<br />
+<br />
+The Leader of the Scottish Labour Party Kezia Dugdale attended the meeting to make the case for these changes in person. (The Leaders of the Scottish and Welsh Labour Parties are currently ex-officio members of the NEC already - the new changes grant them full voting rights.) The NEC often discusses how to rebuild the party in Scotland. It makes sense to fully involve the Leader of the Scottish Labour Party in these discussions.<br />
+<br />
+<strong>Financial Support for Working Class candidates</strong><br />
+<br />
+The NEC agreed a new bursary scheme to support members seeking selection to Parliament from working class and low income backgrounds. We will also continue to develop of range of training and support programmes to encourage more working class, BAME, female, disabled and LGBT candidates to stand for elected office at all levels of the Labour Party. As part of this Labour will be launching the Jo Cox Leadership Programme to train women for leadership roles within the Labour Party. This will be a fitting tribute to Jo's memory. More will be announced on this at Labour Party Conference. <br />
+<br />
+<strong>Shadow Cabinet Elections</strong><br />
+<br />
+The PLP put forward a motion on bringing back Elections to the Shadow Cabinet. As part of the Collins Review Ed Miliband introduced a new rule banning Shadow Cabinet elections. The NEC discussed a variety of ways forward. The consensus was that the Leader, Deputy Leader, Chief Whip and Chair of the PLP should continue discussions to find a unifying way forward. I suggested a compromise of deleting the rule that forbids Shadow Cabinet elections and leaving the rule book silent so elections can be introduced if there is a consensus agreement that they should be introduced, but equally that they are not imposed on the Leader if they do not want to use them. The NEC agreed that the most important thing was for Labour to have a strong, effective Shadow Cabinet that can hold the government to account and present Labour's alternative vision for Britain.   <br />
+<br />
+<strong>Local Government Report</strong><br />
+<br />
+I gave the Local Government Report, which touched on a range of issues including LGA and ALC events at Labour Party Conference, preparation for the 2017 elections, supporting and working with our Metro Mayor candidates and how Councillors can work constructively with local government Trade Unions on areas like use of agency workers, facility time and insourcing. Earlier this month I attended a meeting hosted by LGA Labour Group Leader Nick Forbes and Andy Burnham to discuss the positive difference Labour Councillors make to our communities and how we can work together to deliver for local people. I look forward to campaigning for our fantastic Mayoral candidates in Greater Manchester, Merseyside, the West Midlands and elsewhere. <br />
+<br />
+<strong>General Secretary's Report</strong><br />
+<br />
+Iain McNicol gave the GS report. We now have over 550,000 members - an amazing achievement that presents Labour with fantastic opportunities. Ann Black very sensibly suggested that CLPs be given more resources to manage the administration of larger local parties. Iain also reported that finances are in the best shape for decades. We have paid off all our election debts and now also paid off all our mortgage debts. <br />
+<br />
+<strong>Boundary Review<br />
+</strong><br />
+Labour is in the process of co-ordinating our response to the first stage of the parliamentary Boundary Review. I am a member of the NEC Boundaries Steering Committee and will report back on our meeting in October. It is outrageous that the boundaries are being draw-up on the old election register, which ignores almost 2 million new registered voters. <br />
+<strong><br />
+Disciplinary issues and membership appeals</strong><br />
+<br />
+We discussed the administration for the Leadership election, including issues relating to disciplinary cases. A number of concerns have been raised by members and should be properly examined and addressed, with recommendations for improving the process in future. A full discussion will take place at the next relevant subcommittee meeting. Please do keep passing your feedback to NEC members. The NEC once again thanked staff for all their hard work administering the Leadership election. 2015 and 2016 have been busy years with General Election, referendum campaigns and two leadership elections. I hope everyone finally gets a well-earned break in the summer of 2017!<br />
+<br />
+<strong>Finally.....<br />
+</strong><br />
+Please get in touch if you have any questions. You can read my NEC reports from previous meetings at https://aliceperry.wordpress.com/nec/ and sign-up to my mailing list. A big thank you to everyone who re-elected me to the NEC this summer. It is an honour to represent local government! ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[I was a well-paid European expat. Now I am undocumented | Anonymous]]></title>
-            <link>https://www.theguardian.com/commentisfree/2016/sep/13/how-i-got-here-european-expat-us-undocumented-worker</link>
-            <guid>https://www.theguardian.com/commentisfree/2016/sep/13/how-i-got-here-european-expat-us-undocumented-worker</guid>
+            <title><![CDATA[Trump and Brexit add yet more spice to Ryder Cup’s theatres of cultural war | Marina Hyde]]></title>
+            <link>https://www.theguardian.com/sport/blog/2016/sep/21/ryder-cup-donald-trump-brexit-usa-europe</link>
+            <guid>https://www.theguardian.com/sport/blog/2016/sep/21/ryder-cup-donald-trump-brexit-usa-europe</guid>
+            <pubDate>Wed, 21 Sep 2016 09:58:41 GMT</pubDate>
+            <content:encoded><![CDATA[It is remarkable that in an event where the sport is so electrifying, golf is merely a plot device and Hazeltine promises more multi-faceted conflict than ever<p>Even in more placid recent times, the Ryder Cup has always been the fiercest culture war in all sport. America versus Europe. The individuals versus the team. Lone wolves versus the pack. Unabombers versus cells. Sex addiction versus sex. It is quite remarkable, in an event where the sport itself is frequently so electrifying, that it should rarely attain much more than the level of a plot device in the wider story.</p><p> <span>Related: </span><a href="https://www.theguardian.com/sport/blog/2008/sep/18/rydercup.thejoyofsix">The Joy Of Six: great Ryder Cup moments</a> </p> <a href="https://www.theguardian.com/sport/blog/2016/sep/21/ryder-cup-donald-trump-brexit-usa-europe">Continue reading...</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[The Guardian view on the New York declaration: better than nothing | Editorial]]></title>
-            <link>https://www.theguardian.com/commentisfree/2016/sep/19/the-guardian-view-on-the-new-york-declaration-better-than-nothing</link>
-            <guid>https://www.theguardian.com/commentisfree/2016/sep/19/the-guardian-view-on-the-new-york-declaration-better-than-nothing</guid>
+            <title><![CDATA[No, the royal yacht Britannia should not rise again. Let’s sink that idea completely | Tanya Gold]]></title>
+            <link>https://www.theguardian.com/commentisfree/2016/sep/21/royal-yacht-britannia-should-not-rise-again</link>
+            <guid>https://www.theguardian.com/commentisfree/2016/sep/21/royal-yacht-britannia-should-not-rise-again</guid>
+            <pubDate>Wed, 21 Sep 2016 05:59:18 GMT</pubDate>
+            <content:encoded><![CDATA[We’d be fools to recommission the boat that became the symbol of imperial decline. Nostalgia will not calm the choppy post-Brexit waters<p>In these post-Brexit referendum days <a href="http://www.telegraph.co.uk/news/2016/09/19/theresa-may-opens-door-to-recommissioning-of-royal-yacht-britann/" title="">it is suggested that Britannia, the royal yacht, should be recommissioned</a>. The Last Night of the Proms is not enough, it seems, for some nationalists. The waters of anxiety rise throughout Europe, and their response is: we’re going to need a bigger boat. It was only a matter of time until such dreams wound through the body politic. There must be a cheery upside to assaults on migrants and a fear of the other.</p><p><a href="https://en.wikipedia.org/wiki/HMY_Britannia" title="">Britannia</a> was always a wisp of denial because, essentially, she sailed through imperial decline. Her power was cosmetic. She floated on nostalgia, and with her 220 yachtsman scrubbing the decks with sea water each dawn she invoked everything that is thoughtless about Britain: its tendency to lapse into hierarchy; its principle that there is always money for some things but not others, especially if those others have little to begin with; its willingness to succumb to the power of nationalism.</p> <a href="https://www.theguardian.com/commentisfree/2016/sep/21/royal-yacht-britannia-should-not-rise-again">Continue reading...</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[The Guardian view on Europe: Britain will be outside looking in | Editorial]]></title>
-            <link>https://www.theguardian.com/commentisfree/2016/sep/14/the-guardian-view-on-europe-britain-will-be-outside-looking-in</link>
-            <guid>https://www.theguardian.com/commentisfree/2016/sep/14/the-guardian-view-on-europe-britain-will-be-outside-looking-in</guid>
+            <title><![CDATA[Brits in the EU: are you applying for citizenship?]]></title>
+            <link>https://www.theguardian.com/politics/2016/sep/14/brits-in-the-eu-are-you-applying-for-citizenship</link>
+            <guid>https://www.theguardian.com/politics/2016/sep/14/brits-in-the-eu-are-you-applying-for-citizenship</guid>
+            <pubDate>Wed, 14 Sep 2016 08:45:46 GMT</pubDate>
+            <content:encoded><![CDATA[<p>If you live or work in an EU country and are applying for citizenship due to the Brexit vote, we want to hear from you<br></p><p>After Britain’s vote to leave the European Union, British citizens living and working across the EU <a href="http://www.theguardian.com/politics/2016/jun/27/leave-vote-prompts-rush-dual-nationality-eu-passports">have been weighing up their futures</a>.<br></p><p> <span>Related: </span><a href="https://www.theguardian.com/politics/2016/sep/13/zero-chance-eu-citizens-keep-same-rights-post-brexit-expert">Zero chance EU citizens in UK will keep same rights post-Brexit, says expert</a> </p> <a href="https://www.theguardian.com/politics/2016/sep/14/brits-in-the-eu-are-you-applying-for-citizenship">Continue reading...</a>]]></content:encoded>
         </item>
     </channel>
 </rss>

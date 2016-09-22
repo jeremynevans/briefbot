@@ -5,7 +5,7 @@ var fs = require('fs');
 
 var feedList = [
     'http://www.independent.co.uk/voices/comment/rss',
-    'https://www.theguardian.com/us/commentisfree/rss',
+    'https://www.theguardian.com/uk/rss',
     'http://www.telegraph.co.uk/comment/telegraph-view/rss',
     'http://feeds.reuters.com/reuters/UKTopNews',
     // 'http://www.theweek.co.uk/feeds/all',
@@ -37,12 +37,16 @@ var feed = new Feed({
 });
 
 var exportFeed = function() {
+  finalArticles.sort(function(a,b){
+    return new Date(b.published) - new Date(a.published);
+  });
   for (i in finalArticles) {
     article = finalArticles[i];
     feed.addItem({
-      title:          article.title,
-      link:           article.link,
-      description:    article.description
+      title:      article.title,
+      link:       article.link,
+      content:    article.content,
+      date:       article.published
     });
   }
   var rssOutput = feed.render('rss-2.0');
@@ -59,6 +63,7 @@ var readFeeds = function(feeds) {
     var feed = feeds[i];
     feedRead(feed, function(err, articles) {
       if (err) throw err;
+      console.log(articles);
       filterFeed(articles);
       feedCount++;
       if (feedCount >= feeds.length) {
