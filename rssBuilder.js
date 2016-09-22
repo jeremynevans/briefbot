@@ -2,6 +2,8 @@ var replaceall = require("replaceall");
 var feedRead = require("feed-read");
 var Feed = require("feed");
 var fs = require('fs');
+var relevancyFormula = require('./relevancyFormula.js');
+
 
 var feedList = [
     'http://www.independent.co.uk/news/uk/rss',
@@ -9,17 +11,17 @@ var feedList = [
     'http://www.telegraph.co.uk/news/rss.xml',
     'http://feeds.bbci.co.uk/news/rss.xml?edition=uk',
     'http://www.mirror.co.uk/news/rss.xml',
-    // 'http://www.spectator.co.uk/feed/',
-    // 'http://feeds.reuters.com/reuters/UKTopNews',
-    // 'http://www.theweek.co.uk/feeds/all',
+    'http://blogs.spectator.co.uk/feed/',
+    'http://feeds.reuters.com/reuters/UKTopNews',
+    'http://www.theweek.co.uk/feeds/all',
     'http://feeds.skynews.com/feeds/rss/home.xml',
-    // 'http://www.huffingtonpost.co.uk/feeds/verticals/uk-politics/index.xml'
+    'http://www.huffingtonpost.co.uk/feeds/verticals/uk-politics/index.xml'
   ];
-
-var keywords = [
-  'brexit',
-  'european union'
-];
+//
+// var keywords = [
+//   'brexit',
+//   'european union'
+// ];
 var finalArticles = [];
 
 var feed = new Feed({
@@ -37,11 +39,10 @@ var feed = new Feed({
 });
 
 var exportFeed = function() {
-  finalArticles.sort(function(a,b){
-    return new Date(b.published) - new Date(a.published);
-  });
+  sortFeed();
   for (i in finalArticles) {
     article = finalArticles[i];
+    console.log('-- ' + article.title + ': ' + article.score);
     feed.addItem({
       title:      article.title,
       link:       article.link,
@@ -63,7 +64,7 @@ var readFeeds = function(feeds) {
     var feed = feeds[i];
     feedRead(feed, function(err, articles) {
       if (err) throw err;
-      console.log(articles);
+      // console.log(articles);
       filterFeed(articles);
       feedCount++;
       if (feedCount >= feeds.length) {
@@ -100,38 +101,45 @@ var addKeyword = function(tags, keyword, inTitle) {
   return tags;
 };
 
-var articleRelevant = function(article) {
-  var relevant = false;
-  article.tags = {
-    count: 0,
-    list: []
-  };
-  for (i in keywords) {
-    var keyword = keywords[i];
-    if(article.title.toLowerCase().indexOf(keyword) >= 0) {
-      relevant = true;
-      article.tags = addKeyword(article.tags, keyword, true);
-    }
-    if(article.content.toLowerCase().indexOf(keyword) >= 0) {
-      relevant = true;
-      article.tags = addKeyword(article.tags, keyword, false);
-    }
-  };
-  // if (article.tags.count < 2) {
-  //   relevant = false;
-  // }
-  return relevant;
-};
+// var articleRelevant = function(article) {
+//   var relevant = false;
+//   article.tags = {
+//     count: 0,
+//     list: []
+//   };
+//   for (i in keywords) {
+//     var keyword = keywords[i];
+//     if(article.title.toLowerCase().indexOf(keyword) >= 0) {
+//       relevant = true;
+//       article.tags = addKeyword(article.tags, keyword, true);
+//     }
+//     if(article.content.toLowerCase().indexOf(keyword) >= 0) {
+//       relevant = true;
+//       article.tags = addKeyword(article.tags, keyword, false);
+//     }
+//   };
+//   // if (article.tags.count < 2) {
+//   //   relevant = false;
+//   // }
+//   return relevant;
+// };
 
 var filterFeed = function(feed) {
   var newFeed = [];
   for (i in feed) {
     var article = feed[i];
     article = cleanArticle(article);
-    if (articleRelevant(article)) {
+    article.score = relevancyFormula.calcTotalScore(article);
+    if (article.score > 0) {
       finalArticles.push(article);
     };
   };
+};
+
+var sortFeed = function() {
+  finalArticles.sort(function(a,b){
+    return new Date(b.score) - new Date(a.score);
+  });
 };
 
 
