@@ -153,3 +153,7 @@ var sortFeed = function() {
 
 
 readFeeds(feedList);
+
+setInterval(function(){
+  readFeeds(feedList);
+}, 60 * 60 * 1000);
