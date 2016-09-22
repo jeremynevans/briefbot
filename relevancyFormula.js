@@ -19,10 +19,22 @@ var formula = [
 
 
 var keywords = [
-  'brexit',
-  'european union',
-  'article 50',
-  'single market'
+  {
+    text: 'brexit',
+    weight: 12
+  },
+  {
+    text: 'european union',
+    weight: 4
+  },
+  {
+    text: 'article 50',
+    weight: 4
+  },
+  {
+    text: 'single market',
+    weight: 1
+  }
 ];
 
 
@@ -33,7 +45,9 @@ var calcTotalScore = function(article) {
   for (i in formula) {
     var step = formula[i];
     stepScore = step.factorFunction(article);
-    // console.log(step.name + ': ' + stepScore);
+    if (i == 3 && stepScore > 0) {
+      console.log(step.name + ': ' + stepScore);
+    }
     switch (step.operation) {
       case 'add':
         totalScore += stepScore;
@@ -53,31 +67,31 @@ var calcTotalScore = function(article) {
 
 
 var getKeywordScore = function(article) {
-  score = 0;
+  score = 1;
   for (i in keywords) {
     var keyword = keywords[i];
-    score += singleKeywordScore(article.title, keyword, true);
-    score += singleKeywordScore(article.content, keyword, false);
+    score *= singleKeywordScore(article.title, keyword, true);
+    score *= singleKeywordScore(article.content, keyword, false);
   }
-  // console.log(score);
+  score -= 1;
   return score;
 }
 
 var singleKeywordScore = function(text, keyword, title) {
-  var score = 0;
+  var score = 1;
   var plainText = htmlToText.fromString(text, {
     ignoreHref: true,
     wordwrap: false
   });
-  var index = plainText.toLowerCase().indexOf(keyword);
+  var index = plainText.toLowerCase().indexOf(keyword.text);
   if (index >= 0) {
-    score = 10*100/index;
-  }
-  if (score > 10) {
-    score = 10;
-  }
-  if (title) {
-    score *= 2;
+    score = 1 + 1*20*keyword.weight/index;
+    if (score > 2) {
+      score = 2;
+    }
+    if (title) {
+      score *= 2;
+    }
   }
   var titleText = title ? ' (title)' : '';
   // if (score>0) {
@@ -101,9 +115,9 @@ var getRecencyScore = function(article) {
   var now = Date.now();
   var days = (now - date)/86400000;
   if (days < 1) {
-    recency = 10 - days;
+    recency = 1.5 - days/2;
   } else {
-    recency = 8/days;
+    recency = 1/days;
   }
   return recency;
 }
