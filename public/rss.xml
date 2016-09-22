@@ -4,7 +4,7 @@
         <title>BriefBot</title>
         <description>Brexit, explained</description>
         <link>https://briefbot.github.io/</link>
-        <lastBuildDate>Thu, 22 Sep 2016 16:36:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Sep 2016 16:43:53 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <image>
             <title>BriefBot</title>
@@ -13,6 +13,13 @@
         </image>
         <copyright>All rights reserved 2016, Explaain</copyright>
         <generator>Feed for Node.js</generator>
+        <item>
+            <title><![CDATA[Swiss deal giving locals first preference on jobs while retaining access to single market 'not a pointer for Brexit']]></title>
+            <link>http://www.independent.co.uk/news/world/europe/brexit-swiss-switzerland-eu-deal-jobs-trade-preference-single-market-a7323781.html</link>
+            <guid>http://www.independent.co.uk/news/world/europe/brexit-swiss-switzerland-eu-deal-jobs-trade-preference-single-market-a7323781.html</guid>
+            <pubDate>Thu, 22 Sep 2016 16:18:00 GMT</pubDate>
+            <content:encoded><![CDATA['We won't be following any other nation's model – the position we build outside the EU will be unique to Britain,' says Government spokesman]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Brexit: UK must leave EU by early 2019, says European Parliament president Martin Schulz]]></title>
             <link>http://www.independent.co.uk/news/uk/politics/brexit-latest-uk-must-leave-eu-by-2019-theresa-may-martin-schulz-european-parliament-president-a7323411.html</link>
@@ -35,18 +42,18 @@
             <content:encoded><![CDATA[In a BBC documentary to be broadcast this week the Foreign Office Minister claims the now Foreign Secretary, who was his boss, wanted Brexit to lose]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[UK universities draw up plans for EU campuses ahead of Brexit]]></title>
-            <link>https://www.theguardian.com/education/2016/sep/22/uk-universities-mull-eu-campuses-in-new-era-of-uncertainty</link>
-            <guid>https://www.theguardian.com/education/2016/sep/22/uk-universities-mull-eu-campuses-in-new-era-of-uncertainty</guid>
-            <pubDate>Thu, 22 Sep 2016 11:25:12 GMT</pubDate>
-            <content:encoded><![CDATA[<p>Higher education chiefs, struggling with uncertainty and challenges in regulation and funding, look to soften blow of EU exit</p><p>British universities are considering plans to open branches inside the European Union in an effort to soften the blow of Britain’s exit, as they struggle to navigate new challenges in regulation and funding.</p><p> <span>Related: </span><a href="https://www.theguardian.com/education/2016/sep/22/uk-universities-building-schemes-tuition-fees-new-students">Bricks and mortar boards: UK universities embark on major building schemes</a> </p> <a href="https://www.theguardian.com/education/2016/sep/22/uk-universities-mull-eu-campuses-in-new-era-of-uncertainty">Continue reading...</a>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[The Brexit economy: post-referendum data defies gloomy UK predictions]]></title>
             <link>https://www.theguardian.com/business/2016/sep/21/post-referendum-gloom-fears-confounded-economic-evidence</link>
             <guid>https://www.theguardian.com/business/2016/sep/21/post-referendum-gloom-fears-confounded-economic-evidence</guid>
             <pubDate>Thu, 22 Sep 2016 06:35:02 GMT</pubDate>
             <content:encoded><![CDATA[<p>Guardian analysis of key economic figures gives rounded assessment three months after the vote</p><p>• Help fund our journalism by becoming a <a href="https://membership.theguardian.com/uk/supporter?INTCMP=gdnwb_copts_editorial_mem_brexitdashboardstoryfooter_footer">Guardian supporter</a></p><p> <span>Related: </span><a href="https://www.theguardian.com/business/ng-interactive/2016/sep/21/how-has-the-brexit-vote-affected-the-uk-economy-september-verdict">How has the Brexit vote affected the UK economy? September verdict</a> </p><p>Fears that Britain will slide into a post-referendum recession have been allayed after a Guardian analysis showed the latest news on the economy has confounded analysts’ gloomy expectations, with consumer spending strong, unemployment low and the housing market holding steady.</p> <a href="https://www.theguardian.com/business/2016/sep/21/post-referendum-gloom-fears-confounded-economic-evidence">Continue reading...</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[UK universities draw up plans for EU campuses ahead of Brexit]]></title>
+            <link>https://www.theguardian.com/education/2016/sep/22/uk-universities-mull-eu-campuses-in-new-era-of-uncertainty</link>
+            <guid>https://www.theguardian.com/education/2016/sep/22/uk-universities-mull-eu-campuses-in-new-era-of-uncertainty</guid>
+            <pubDate>Thu, 22 Sep 2016 11:25:12 GMT</pubDate>
+            <content:encoded><![CDATA[<p>Higher education chiefs, struggling with uncertainty and challenges in regulation and funding, look to soften blow of EU exit</p><p>British universities are considering plans to open branches inside the European Union in an effort to soften the blow of Britain’s exit, as they struggle to navigate new challenges in regulation and funding.</p><p> <span>Related: </span><a href="https://www.theguardian.com/education/2016/sep/22/uk-universities-building-schemes-tuition-fees-new-students">Bricks and mortar boards: UK universities embark on major building schemes</a> </p> <a href="https://www.theguardian.com/education/2016/sep/22/uk-universities-mull-eu-campuses-in-new-era-of-uncertainty">Continue reading...</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Brexit, insurance, debt and help to buy]]></title>
@@ -107,6 +114,13 @@
 ]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Boris Johnson 'didn't want Brexit win']]></title>
+            <link>http://www.bbc.co.uk/news/uk-politics-37439890</link>
+            <guid>http://www.bbc.co.uk/news/uk-politics-37439890</guid>
+            <pubDate>Thu, 22 Sep 2016 15:00:58 GMT</pubDate>
+            <content:encoded><![CDATA[Boris Johnson campaigned to leave the EU to become the Conservative "heir apparent" - and did not expect to win, Sir Alan Duncan claimed the day before June's referendum.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Brexit U-turns: who is rowing back on their Project Fear warnings?]]></title>
             <link>http://blogs.spectator.co.uk/2016/09/brexit-u-turns-rowing-back-project-fear-warnings/</link>
             <guid>http://blogs.spectator.co.uk/2016/09/brexit-u-turns-rowing-back-project-fear-warnings/</guid>
@@ -130,19 +144,6 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Boris Johnson 'didn't want Brexit win']]></title>
-            <link>http://www.bbc.co.uk/news/uk-politics-37439890</link>
-            <guid>http://www.bbc.co.uk/news/uk-politics-37439890</guid>
-            <pubDate>Thu, 22 Sep 2016 15:00:58 GMT</pubDate>
-            <content:encoded><![CDATA[Boris Johnson campaigned to leave the EU to become the Conservative "heir apparent" - and did not expect to win, Sir Alan Duncan claimed the day before June's referendum.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Foreign Office minister Alan Duncan insults boss Boris Johnson as he claims he never wanted Brexit]]></title>
-            <link>http://www.telegraph.co.uk/news/2016/09/22/foreign-office-minister-alan-duncan-insults-boss-boris-johnson-a/</link>
-            <guid>http://www.telegraph.co.uk/news/2016/09/22/foreign-office-minister-alan-duncan-insults-boss-boris-johnson-a/</guid>
-            <pubDate>Thu, 22 Sep 2016 14:27:17 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Brexit is risking student numbers and vital research funding, says head of Oxford University after school is named world's best]]></title>
             <link>http://www.independent.co.uk/news/uk/politics/brexit-latest-oxford-university-worlds-best-funding-research-louise-richardson-vice-chancellor-a7322186.html</link>
             <guid>http://www.independent.co.uk/news/uk/politics/brexit-latest-oxford-university-worlds-best-funding-research-louise-richardson-vice-chancellor-a7322186.html</guid>
@@ -162,6 +163,12 @@
             <pubDate>Wed, 21 Sep 2016 18:23:13 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Foreign Office minister Alan Duncan insulted Boris Johnson as he claims the current Foreign secretary never wanted Brexit]]></title>
+            <link>http://www.telegraph.co.uk/news/2016/09/22/foreign-office-minister-alan-duncan-insults-boss-boris-johnson-a/</link>
+            <guid>http://www.telegraph.co.uk/news/2016/09/22/foreign-office-minister-alan-duncan-insults-boss-boris-johnson-a/</guid>
+            <pubDate>Thu, 22 Sep 2016 14:27:17 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Watch top Tory insult and do scathing impression of Boris Johnson - who's now his boss]]></title>
             <link>http://www.mirror.co.uk/news/uk-news/watch-top-tory-insult-scathing-8892872</link>
             <guid>http://www.mirror.co.uk/news/uk-news/watch-top-tory-insult-scathing-8892872</guid>
@@ -174,6 +181,114 @@
             <guid>https://www.theguardian.com/world/2016/sep/22/switzerland-votes-for-compromise-to-preserve-relations-with-eu</guid>
             <pubDate>Thu, 22 Sep 2016 12:13:52 GMT</pubDate>
             <content:encoded><![CDATA[<p>MPs vote for local preference in job hires but plan does not include fixed limits on EU immigration</p><p>The Swiss parliament has largely caved in to EU intransigence on free movement in a decision that could deal a blow to British government hopes of being able to both control immigration and retain enhanced single market access after Brexit. </p><p>Swiss MPs approved legislation on Wednesday that would promote some local preference in job hires, <a href="https://www.theguardian.com/world/2016/sep/06/swiss-eu-standoff-striking-similarities-uk-predicament">a compromise they hope will allow</a> vital economic relations with the bloc to be preserved following a 2014 referendum vote to cap EU immigration.</p> <a href="https://www.theguardian.com/world/2016/sep/22/switzerland-votes-for-compromise-to-preserve-relations-with-eu">Continue reading...</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[EU’s Antitrust Chief Rejects Claims Of Political Bias In Apple Tax Ruling]]></title>
+            <link>https://www.buzzfeed.com/hamzashaban/eus-antitrust-chief-rejects-claims-of-political-bias-in-appl?utm_term=4ldqpia</link>
+            <guid>https://www.buzzfeed.com/hamzashaban/eus-antitrust-chief-rejects-claims-of-political-bias-in-appl?utm_term=4ldqpia</guid>
+            <pubDate>Tue, 20 Sep 2016 18:45:22 GMT</pubDate>
+            <content:encoded><![CDATA[
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+	
+
+   <p><img src="https://img.buzzfeed.com/buzzfeed-static/static/2016-09/20/14/asset/buzzfeed-prod-web06/sub-buzz-20549-1474395992-1.jpg?resize=625:408" width="625" height="408" alt="" /></p>
+ 
+	
+
+
+ <p><small>John Thys / AFP / Getty Images</small></p>
+
+
+
+
+<p>One CEO&rsquo;s anti-American &ldquo;<a href="http://www.independent.ie/business/irish/no-one-did-anything-wrong-here-and-ireland-is-being-picked-on-it-is-total-political-crap-apple-chief-tim-cook-35012145.html">political crap</a>&rdquo; is another regulator&rsquo;s equal-opportunity enforcement.<br /></p><p>Margrethe Vestager, the European Union&rsquo;s Competition Commissioner, defended a massive tax ruling against Apple Tuesday, swatting away criticism that EU actions against US companies are politically motivated.</p>
+
+
+
+
+
+
+
+
+
+
+ <p>"There are no numbers to back up any kind of bias."</p>
+
+
+
+
+
+
+<p>&ldquo;I must admit I know that it is tempting and I register the feelings and the concerns too, but there are no numbers to back up any kind of bias,&rdquo; Vestager said during an antitrust conference at the Georgetown University Law Center. &ldquo;We make sure that the market works no matter the ownership, private or public, the size, or the nationalities of the companies.&rdquo;</p><p>Last month the executive arm of the EU ordered the Irish government to collect <a href="https://www.buzzfeed.com/franciswhittaker/ireland-gave-apple-illegal-tax-benefits-worth-eu13-billion-e?utm_term=.wkKV5O5do#.ueN7ZNZ1J">$14.5 billion in unpaid taxes</a> from Apple. Following a two year investigation, European officials concluded that Apple had received undue tax benefits not offered to other companies, a sweetheart deal it had determined to be illegal under European law. &ldquo;We have rules to stop governments from giving out favors to a handful of companies at the expense of everyone else,&rdquo; Vestager said.</p>
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+	
+
+   <p><img src="https://img.buzzfeed.com/buzzfeed-static/static/2016-09/20/14/asset/buzzfeed-prod-web14/sub-buzz-21427-1474396272-3.jpg?resize=625:423" width="625" height="423" alt="" /></p>
+ 
+	
+
+
+ <p><small>Josh Edelson / AFP / Getty Images</small></p>
+
+
+
+
+<p>Soon after the ruling was made public, Apple CEO Tim Cook slammed the decision as &ldquo;political crap.&rdquo; Cook rejected the figures used to generate the dollar amount owed and cited anti-American bias as one reason behind the adverse decision. &ldquo;[W]hat I feel strongly about is that this decision was politically based, of that I&rsquo;m very confident. There is no reason for it in fact or in law,&rdquo; he told the <i>Irish Independent</i>. Apple and Ireland plan to appeal the decision.</p><p>In her remarks at Georgetown, Vestager defended the EU&rsquo;s record as a neutral enforcer of antitrust rules. She said that in the past 15 years, the EU has brought about 150 illegal state aid decisions, but only a fraction of them were made against US companies. &ldquo;I know that you do not have this concept in the states, that it&rsquo;s a common thing for companies to negotiate their tax regime in the state that they locate, this is the difference of opinions of looking at what is fair and reasonable,&rdquo; she said. &ldquo;But when we are in Europe we have European rules and everyone is to play by European rules.&rdquo;</p><p>Like Cook, <a href="http://www.ft.com/cms/s/0/68892752-6ecf-11e6-a0c9-1365ce54b926.html#axzz4Kol5VSEN">government officials and lawmakers in the US</a> have not been persuaded by Vestager&rsquo;s assurances. The Treasury Department said the decision against Apple could threaten the &ldquo;important economic partnership between the US and the EU.&rdquo; The agency has also <a href="https://www.buzzfeed.com/matthewzeitlin/pot-of-gold?utm_term=.xh3MK8KNO#.ydX1e6e5l">raised criticism</a> of ongoing investigations into other American companies operating in Europe, including Amazon and Starbucks.</p><p>And after meeting with Vestager on Monday, Sen. Orrin Hatch, the chair of the Senate Finance Committee described the European ruling as running &ldquo;roughshod over an American firm,&rdquo; in a statement sent to BuzzFeed News. &ldquo;Though our meetings were cordial, the Commissioner failed to build an effective case for this highly politicized ruling rooted in an erroneous interpretation of law, underscoring the need for additional action in international courts.&rdquo;</p>
+
+
+ <p><small></small></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Thursday September 22 2016]]></title>
@@ -227,13 +342,6 @@
             <content:encoded><![CDATA[History is littered with examples of failed breakaway parties. A split is out of the question if we are to challenge Conservative hegemony<p><a href="http://www.theguardian.com/politics/labour" title="">Labour</a> has a had a torrid time of late. Since last summer the tone of the party’s internal debate has been shrill and bitter. Views have become increasingly polarised, and speculation about a possible split commonplace. We have been likened to a couple who want to divorce but who choose to stay together because we cannot afford to sell the house. Now the polls have closed and, in <a href="https://www.theguardian.com/politics/2016/sep/21/corbyn-camp-predicts-comfortable-victory-as-leadership-polls-close" title="">the aftermath of Jeremy Corbyn’s anticipated victory</a> on Saturday, people will almost certainly again raise the question of whether Labour should simply split and let its warring factions walk away from each other.</p><p> <span>Related: </span><a href="https://www.theguardian.com/commentisfree/2016/sep/20/get-serious-labour-rebels-deal-with-brexit-catastrophe">Get serious, Labour rebels, and deal with the Brexit catastrophe | Polly Toynbee</a> </p> <a href="https://www.theguardian.com/commentisfree/2016/sep/22/labour-party-must-hold-together">Continue reading...</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Amber Rudd's offshore business past exposed]]></title>
-            <link>http://www.theweek.co.uk/76848/amber-rudds-offshore-business-past-exposed</link>
-            <guid>http://www.theweek.co.uk/76848/amber-rudds-offshore-business-past-exposed</guid>
-            <pubDate>Thu, 22 Sep 2016 11:15:13 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="primary-image"> <div id="file-100884" class="file file-image file-image-jpeg file-default"> <div class="content"> <img src="http://cdn2.theweek.co.uk/sites/theweek/files/styles/article_main_image/public/2016/09/160922_tax_returns_cameron.jpg?itok=99PwLQQD" alt="" /><div class="field field-name-field-file-credits field-type-text field-label-above"> <div class="field-label">Credits&nbsp;</div> <div class="field-items"> <div class="field-item even">Jack Taylor/Getty Images</div> </div></div> </div> </div> </div> <p class="short-teaser"> Home Secretary&#039;s role in Bahamas-based companies shines fresh spotlight on politicians&#039; links to tax havens</p> <span class="field field-name-field-article-type field-type-taxonomy-term-reference field-label-hidden"> <span class="field-item even"><a href="/one-minute-read">One-Minute Read</a></span> </span><div class="field field-name-field-published-date field-type-datetime field-label-hidden"> <div class="field-items"> <div class="field-item even"><span class="date-display-single">Thursday, September 22, 2016 - 12:15pm</span></div> </div></div><div class="field field-name-field-related-articles field-type-node-reference field-label-above"> <div class="field-label">See related&nbsp;</div> <div class="field-items"> <div class="field-item even"> <div class="node node-article node-promoted even node-inline-teaser"> <h5><span><a href="/panama-papers/71379/panama-papers-david-camerons-tax-returns-show-hypocrisy-is-rife">Panama Papers: David Cameron&#039;s tax returns show hypocrisy is rife</a></span></h5> <div class="content"> </div> </div> </div> </div></div><div class="field field-name-body"> <div class="field-item even"> <div class="field field-name-field-related-articles field-type-node-reference field-label-above"> <div class="field-label">See related&nbsp;</div> <div class="field-items"> <div class="field-item even"><a href="/75644/ford-aims-to-sell-first-driverless-car-by-2021">Ford aims to sell first driverless car by 2021</a></div> <div class="field-item odd"><a href="/67776/google-accepts-blame-for-self-driving-car-crash">Google and Fiat-Chrysler team up for self-driving car</a></div> </div></div><p>Five months after the sensational Panama Papers laid bare David Cameron's past involvement in an offshore investment fund, another top Tory has been linked with a tax haven.</p> <p>Home Secretary Amber Rudd has been named as a past director of two companies registered in the Bahamas, which imposes no income, corporate or wealth taxes and was named among 30 "unco-operative tax havens" by the European Union last year.</p> <p>The politician was among the directors of more than 175,000 companies in the Caribbean island named in a cache of 1.3 million files passed to German newspaper Suddeutsche Zeitung and shared with the International Bureau of Investigative Journalists and media partners including <a href="https://www.theguardian.com/business/2016/sep/21/bahamas-leaks-reveal-amber-rudd-involvement-offshore-firms">The Guardian</a> and the <a href="http://www.bbc.co.uk/news/uk-politics-37432666">BBC</a>.</p> <p>In its report, the Guardian also revealed that Rudd, in a separate business venture, was a director of Monticello plc, which found itself at the centre of an investigation into alleged "share ramping" that led to a co-director being jailed.</p> <p>Rudd, who supported Cameron when he faced questions over his own offshore dealings, has not commented personally on the reports.</p> <p>A spokesperson said: "It is a matter of public record that Amber had a career in business before entering politics. Monticello was thoroughly investigated 16 years ago and those who acted wrongly were identified and prosecuted."</p> <p>Following the revelations, Green Party speaker on finance Molly Scott Cato MEP said: "[Prime Minister] Theresa May made clear that she would lead a government that works for everyone and would encourage a more ethical approach to business.</p> <p>"In this context it is difficult to see how she can continue to have confidence in Amber Rudd as home secretary."</p> <p>Liberal Democrat leader Tim Farron tweeted Rudd "must provide clarity".</p> <blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">Serious questions for Amber Rudd-she must provide clarity. The public are sick of the idea of politicians tying to dodge the rules they make</p> <p>&mdash; Tim Farron (@timfarron) <a href="https://twitter.com/timfarron/status/778662949401559044">21 September 2016</a></p></blockquote> <p> According to the documents, Rudd was director of the Bahamas-based Advanced Asset Allocation Fund and Advanced Asset Allocation Management between 1998 and 2000. It is not clear if she invested in the firms or if they were used to avoid any tax and there is no suggestion of any wrongdoing.</p> <p>Former associate Alistair Buchanan told the BBC the companies were used to market an investment fund to investors and were registered in the Bahamas purely for administrative purposes. "You could not set up those funds in England at that time, now you can," he said.</p> <p>Rudd's links to Monticello came after it bought out The Zinc Corporation, at which she was a director, in 1999.</p> <p>She resigned her position the following year, five months after trading in Monticello's shares was suspended following co-director Mark O'Hanlon making false statements that massively inflated the company's value.</p> <p>O'Hanlon was eventually convicted of making a false statement and sentenced to 18 months in prison in 2007. He was later jailed again in 2013 on an unrelated fraud charge. </p> </div> </div><div class="field field-name-field-category-secondary field-type-taxonomy-term-reference field-label-hidden"> <div class="field-items"> <div class="field-item even"><a href="/economy">Economy</a></div> </div></div>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Why is Nate Silver on his high horse over Trump – again?]]></title>
             <link>http://blogs.spectator.co.uk/2016/09/nate-silver-high-horse-trump/</link>
             <guid>http://blogs.spectator.co.uk/2016/09/nate-silver-high-horse-trump/</guid>
@@ -249,9 +357,16 @@
 <p>The idea that pollsters have &lsquo;done a Newton&rsquo; on politics is one of the great comic vanities of our times. The polls are all over the shop:&nbsp;witness last year&rsquo;s general election, and Brexit. If your starting position is that you&rsquo;re simply smarter than anyone else, or can see more clearly due to your superior grasp of data, then you can end up getting egg on your face. &nbsp;A bit like the person who wrote this:-</p>
 <p><img class="alignnone size-full wp-image-9622242" src="//cdn2.spectator.co.uk/files/2016/09/Screen-Shot-2016-09-21-at-15.21.48.png" alt="Screen Shot 2016-09-21 at 15.21.48" width="629" height="446" srcset="//cdn2.spectator.co.uk/files/2016/09/Screen-Shot-2016-09-21-at-15.21.48.png 629w, //cdn2.spectator.co.uk/files/2016/09/Screen-Shot-2016-09-21-at-15.21.48-300x213.png 300w, //cdn2.spectator.co.uk/files/2016/09/Screen-Shot-2016-09-21-at-15.21.48-582x413.png 582w, //cdn2.spectator.co.uk/files/2016/09/Screen-Shot-2016-09-21-at-15.21.48-146x104.png 146w" sizes="(max-width: 629px) 100vw, 629px"></p>
 <p>Might the media have been justified in freaking out about Donald Trump&rsquo;s polls, even if the numbers&nbsp;were small?
-</p><div class="spectator-promo"><iframe src="http://newsletters.spectator.co.uk/k/The-Spectator/spectator_money_daily_digest_2" name='&ldquo;money"' scrolling="no" frameborder="no" align="center" height="475px" width="100%"><br></iframe></div>
+</p><div class="spectator-promo"><iframe src="http://newsletters.spectator.co.uk/k/The-Spectator/spec_health_2" scrolling="no" frameborder="no" align="center" height="475px" width="100%"><br></iframe></div>
 <p>The post <a rel="nofollow" href="http://blogs.spectator.co.uk/2016/09/nate-silver-high-horse-trump/">Why is Nate Silver on his high horse over Trump &#8211; again?</a> appeared first on <a rel="nofollow" href="http://blogs.spectator.co.uk">Coffee House</a>.</p>
 ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Amber Rudd's offshore business past exposed]]></title>
+            <link>http://www.theweek.co.uk/76848/amber-rudds-offshore-business-past-exposed</link>
+            <guid>http://www.theweek.co.uk/76848/amber-rudds-offshore-business-past-exposed</guid>
+            <pubDate>Thu, 22 Sep 2016 11:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="primary-image"> <div id="file-100884" class="file file-image file-image-jpeg file-default"> <div class="content"> <img src="http://cdn2.theweek.co.uk/sites/theweek/files/styles/article_main_image/public/2016/09/160922_tax_returns_cameron.jpg?itok=99PwLQQD" alt="" /><div class="field field-name-field-file-credits field-type-text field-label-above"> <div class="field-label">Credits&nbsp;</div> <div class="field-items"> <div class="field-item even">Jack Taylor/Getty Images</div> </div></div> </div> </div> </div> <p class="short-teaser"> Home Secretary&#039;s role in Bahamas-based companies shines fresh spotlight on politicians&#039; links to tax havens</p> <span class="field field-name-field-article-type field-type-taxonomy-term-reference field-label-hidden"> <span class="field-item even"><a href="/one-minute-read">One-Minute Read</a></span> </span><div class="field field-name-field-published-date field-type-datetime field-label-hidden"> <div class="field-items"> <div class="field-item even"><span class="date-display-single">Thursday, September 22, 2016 - 12:15pm</span></div> </div></div><div class="field field-name-field-related-articles field-type-node-reference field-label-above"> <div class="field-label">See related&nbsp;</div> <div class="field-items"> <div class="field-item even"> <div class="node node-article node-promoted even node-inline-teaser"> <h5><span><a href="/panama-papers/71379/panama-papers-david-camerons-tax-returns-show-hypocrisy-is-rife">Panama Papers: David Cameron&#039;s tax returns show hypocrisy is rife</a></span></h5> <div class="content"> </div> </div> </div> </div></div><div class="field field-name-body"> <div class="field-item even"> <div class="field field-name-field-related-articles field-type-node-reference field-label-above"> <div class="field-label">See related&nbsp;</div> <div class="field-items"> <div class="field-item even"><a href="/75644/ford-aims-to-sell-first-driverless-car-by-2021">Ford aims to sell first driverless car by 2021</a></div> <div class="field-item odd"><a href="/67776/google-accepts-blame-for-self-driving-car-crash">Google and Fiat-Chrysler team up for self-driving car</a></div> </div></div><p>Five months after the sensational Panama Papers laid bare David Cameron's past involvement in an offshore investment fund, another top Tory has been linked with a tax haven.</p> <p>Home Secretary Amber Rudd has been named as a past director of two companies registered in the Bahamas, which imposes no income, corporate or wealth taxes and was named among 30 "unco-operative tax havens" by the European Union last year.</p> <p>The politician was among the directors of more than 175,000 companies in the Caribbean island named in a cache of 1.3 million files passed to German newspaper Suddeutsche Zeitung and shared with the International Bureau of Investigative Journalists and media partners including <a href="https://www.theguardian.com/business/2016/sep/21/bahamas-leaks-reveal-amber-rudd-involvement-offshore-firms">The Guardian</a> and the <a href="http://www.bbc.co.uk/news/uk-politics-37432666">BBC</a>.</p> <p>In its report, the Guardian also revealed that Rudd, in a separate business venture, was a director of Monticello plc, which found itself at the centre of an investigation into alleged "share ramping" that led to a co-director being jailed.</p> <p>Rudd, who supported Cameron when he faced questions over his own offshore dealings, has not commented personally on the reports.</p> <p>A spokesperson said: "It is a matter of public record that Amber had a career in business before entering politics. Monticello was thoroughly investigated 16 years ago and those who acted wrongly were identified and prosecuted."</p> <p>Following the revelations, Green Party speaker on finance Molly Scott Cato MEP said: "[Prime Minister] Theresa May made clear that she would lead a government that works for everyone and would encourage a more ethical approach to business.</p> <p>"In this context it is difficult to see how she can continue to have confidence in Amber Rudd as home secretary."</p> <p>Liberal Democrat leader Tim Farron tweeted Rudd "must provide clarity".</p> <blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">Serious questions for Amber Rudd-she must provide clarity. The public are sick of the idea of politicians tying to dodge the rules they make</p> <p>&mdash; Tim Farron (@timfarron) <a href="https://twitter.com/timfarron/status/778662949401559044">21 September 2016</a></p></blockquote> <p> According to the documents, Rudd was director of the Bahamas-based Advanced Asset Allocation Fund and Advanced Asset Allocation Management between 1998 and 2000. It is not clear if she invested in the firms or if they were used to avoid any tax and there is no suggestion of any wrongdoing.</p> <p>Former associate Alistair Buchanan told the BBC the companies were used to market an investment fund to investors and were registered in the Bahamas purely for administrative purposes. "You could not set up those funds in England at that time, now you can," he said.</p> <p>Rudd's links to Monticello came after it bought out The Zinc Corporation, at which she was a director, in 1999.</p> <p>She resigned her position the following year, five months after trading in Monticello's shares was suspended following co-director Mark O'Hanlon making false statements that massively inflated the company's value.</p> <p>O'Hanlon was eventually convicted of making a false statement and sentenced to 18 months in prison in 2007. He was later jailed again in 2013 on an unrelated fraud charge. </p> </div> </div><div class="field field-name-field-category-secondary field-type-taxonomy-term-reference field-label-hidden"> <div class="field-items"> <div class="field-item even"><a href="/economy">Economy</a></div> </div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[The Spectator podcast: The indestructibles]]></title>
@@ -273,8 +388,72 @@
 <p><a href="https://itunes.apple.com/gb/podcast/the-spectator-podcast/id793236670?mt=2" target="_blank"><img class="alignleft wp-image-9589192 size-full" src="//cdn2.spectator.co.uk/files/2016/08/Spec-iTunes-620x210.jpg" alt="" width="223" height="76" srcset="//cdn2.spectator.co.uk/files/2016/08/Spec-iTunes-620x210.jpg 620w, //cdn2.spectator.co.uk/files/2016/08/Spec-iTunes-300x101.jpg 300w, //cdn2.spectator.co.uk/files/2016/08/Spec-iTunes-146x49.jpg 146w, //cdn2.spectator.co.uk/files/2016/08/Spec-iTunes.jpg 710w" sizes="(max-width: 223px) 100vw, 223px"></a><a href="http://www.stitcher.com/podcast/the-spectator-podcast" target="_blank"><img class="alignnone wp-image-9589212 size-full" src="//cdn2.spectator.co.uk/files/2016/08/Spec-Stitcher-620x210.jpg" alt="" width="223" height="76" srcset="//cdn2.spectator.co.uk/files/2016/08/Spec-Stitcher-620x210.jpg 620w, //cdn2.spectator.co.uk/files/2016/08/Spec-Stitcher-300x101.jpg 300w, //cdn2.spectator.co.uk/files/2016/08/Spec-Stitcher-146x49.jpg 146w, //cdn2.spectator.co.uk/files/2016/08/Spec-Stitcher.jpg 710w" sizes="(max-width: 223px) 100vw, 223px"></a></p>
 <p><img class="aligncenter size-full wp-image-9498652" src="//cdn2.spectator.co.uk/files/2016/06/image004-300x244-1-1.jpg" alt="" width="300" height="244" srcset="//cdn2.spectator.co.uk/files/2016/06/image004-300x244-1-1.jpg 300w, //cdn2.spectator.co.uk/files/2016/06/image004-300x244-1-1-146x119.jpg 146w" sizes="(max-width: 300px) 100vw, 300px"></p>
 <p><em>This podcast is sponsored by Berry Bros. &amp; Rudd, who have long supplied wine for The Spectator. If you&rsquo;ve always wanted to start a wine cellar, 2016 could be the perfect time. Whether you are looking to buy for future drinking, for investment or a little of both, Berry Bros. &amp; Rudd&rsquo;s Cellar Plan is designed to suit all tastes and budgets. A&nbsp;personal Account Manager will be on hand to offer advice and assistance, and enable you to benefit from three centuries&rsquo; worth of relationships with the leading wine growers. To find out more about starting a wine cellar with Berry Bros. &amp; Rudd, visit <a href="https://www.bbr.com/cellar-plan" target="_blank">bbr.com/cellarplan</a></em>
-</p><div class="spectator-promo"> </div>
+</p><div class="spectator-promo"><iframe src="http://newsletters.spectator.co.uk/k/The-Spectator/spec_health_2" scrolling="no" frameborder="no" align="center" height="475px" width="100%"><br></iframe></div>
 <p>The post <a rel="nofollow" href="http://blogs.spectator.co.uk/2016/09/spectator-podcast-indestructibles/">The Spectator podcast: The indestructibles</a> appeared first on <a rel="nofollow" href="http://blogs.spectator.co.uk">Coffee House</a>.</p>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Estonia’s President Wants Some Of His Fellow Leaders To End "Naïveté" Toward Russia]]></title>
+            <link>https://www.buzzfeed.com/miriamelder/estonias-president-wants-some-of-his-fellow-leaders-to-end-n?utm_term=4ldqpia</link>
+            <guid>https://www.buzzfeed.com/miriamelder/estonias-president-wants-some-of-his-fellow-leaders-to-end-n?utm_term=4ldqpia</guid>
+            <pubDate>Tue, 20 Sep 2016 22:28:18 GMT</pubDate>
+            <content:encoded><![CDATA[
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+	
+
+   <p><img src="https://img.buzzfeed.com/buzzfeed-static/static/2016-09/20/18/asset/buzzfeed-prod-fastlane02/sub-buzz-14542-1474410310-3.jpg?resize=625:422" width="625" height="422" alt="" /></p>
+ 
+	
+
+
+ <p><small>Jason Bergman for BuzzFeed</small></p>
+
+
+
+
+<p>NEW YORK &mdash; The outgoing president of Estonia warned against the &ldquo;na&iuml;vet&eacute;&rdquo; of other European leaders when dealing with an increasingly aggressive Russia, in an interview with BuzzFeed News.</p><p>President Toomas Hendrik Ilves, who leaves office next month after holding the presidency for 10 years, stressed that Russia poses a threat to Europe by funding anti-establishment parties and undermining long-held security agreements.</p><p>&ldquo;We cannot count on Russia to stick to fundamental agreements regarding Western security,&rdquo; said Ilves, who is in New York for the United Nations General Assembly. &ldquo;Sometimes I&rsquo;m bewildered by the na&iuml;vet&eacute; of some leaders who, having seen repeatedly that all of this is violated, still persist in sort of acting as if we have not ... seen the intentional undermining of the foundations of Western security.&rdquo; He pointed to those countries, like France, who supported ending sanctions on Russia, put in place after the Kremlin&rsquo;s annexation of Crimea and bloody meddling in eastern Ukraine.</p><p>Ilves, along with other Baltic leaders, has long warned of increasing Russian interference. He said he believed, however, that the Baltic countries were not at the top of Moscow&rsquo;s priority list, as it becomes ever more interventionist abroad, from Ukraine to Syria. &ldquo;I think [the threats] are relatively low because no one really wants to test Article 5,&rdquo; he said, referring to the section of NATO&rsquo;s founding treaty that compels members to come to one another&rsquo;s defense.</p><p>The larger threat, Ilves said, lies with countries that are, unlike Estonia, neither members of the European Union nor NATO.</p><p>Europe is facing an intense set of challenges, from Russian support for populist parties, to the continuing refugee crisis and the aftershocks of Brexit. Ilves said one of the greatest concerns around Brexit was the key role the United Kingdom played in bolstering the transatlantic relationship.</p><p>&ldquo;As long as the UK is in the EU, it can temper some of the anti-American positions that we see some countries taking,&rdquo; Ilves said. &ldquo;But let&rsquo;s be honest, the sole treaty-based link, the big link to Europe that the United States has is through NATO.&rdquo; The Baltic countries are among the loudest critics of the idea of an &ldquo;EU army,&rdquo; as Latvian President Raimonds V&#x113;jonis <a href="https://www.buzzfeed.com/hayesbrown/latvian-president-buzzfeed-interview?utm_term=.ucBP9v9LZ#.bnlE0d0Y4">told</a> BuzzFeed News on Monday, in part because of their belief in the primacy of NATO.</p><p>When asked if he was concerned that the series of threats facing the EU could undermine its existence, Ilves turned the question around: &ldquo;When I sit there in Europe and read what one of your presidential candidates says, I think, is the United States going to exist?&rdquo;</p><p>&ldquo;Perhaps not that dire but, nonetheless, the degree of polarization on all kinds of issues in the US is something,&rdquo; he said. &ldquo;And where, in fact, the fundamentals of the past 70 years are being called into question then I could equally say the same thing.&rdquo;</p><p>Donald Trump, aside from his general bombastic and unpredictable policy statements and approaches, raised concerns across Europe when he said he would <a href="http://www.nytimes.com/2016/07/21/us/politics/donald-trump-issues.html">set conditions</a> &mdash; that is, fully meeting defense spending commitments &mdash; in order to invoke NATO&rsquo;s full protection of its members. (Ilves said at the time that he was <a href="http://blogs.wsj.com/washwire/2016/08/18/estonian-leader-says-hes-unconcerned-about-trumps-praise-for-russia-wavering-on-nato/">unconcerned</a>, since Estonia is one of the few countries to pay its full dues.)</p><p>Ilves said he enjoyed a &ldquo;good relationship&rdquo; with President Barack Obama, who gave a major foreign policy speech in the Estonian capital, Tallinn, in September 2014. &ldquo;We&rsquo;ve gotten what we wanted,&rdquo; Ilves said. &ldquo;Initially, we wanted something as basic as even contingency plans for the defense of the Baltic countries, which was not on the table or didn&rsquo;t exist, when we&rsquo;d been members in NATO for six years.&rdquo;</p><p>&ldquo;NATO was still in its sort of peace-love-dove-Woodstock mode &mdash; 'You don&rsquo;t need contingency plans, nothing is gonna happen'; the US was strongly behind doing those,&rdquo; he said. He also recalled how, in the wake of Russia&rsquo;s annexation of Crimea in March 2014, the US poured its support behind the expansion of the &Auml;mari Air Base, where some NATO planes are stationed, <a href="http://www.stripes.com/news/usaf-team-checks-estonia-air-base-for-nato-mission-1.279866">including US Air Force jets</a>, as part of a Baltic air-policing mission. &ldquo;We had been asking for years,&rdquo; said Ilves, and received replies like 'You don&rsquo;t need it, you don&rsquo;t need it.'&rdquo;</p><p>&ldquo;We requested it early the first Monday morning after the Crimea annexation &mdash; our defense minister went into the US embassy and said, 'We really would like to have you here,' and within three days they were.&rdquo;</p><p>&ldquo;No sort of, 'Oh, we have to go do this, and discuss that' &mdash; I mean, it came,&rdquo; he said. &ldquo;We&rsquo;re not complaining.&rdquo;</p><p>With just three weeks left in his term, the president &mdash; who grew up in New Jersey and served as foreign minister before <a href="https://www.buzzfeed.com/maxseddon/the-president-of-twitter?utm_term=.oh9XkR5Q0#.pcb1J2ed8">taking the helm</a> of the country &mdash; has begun to look ahead. He says he will take his first vacation in 11 years and then &ldquo;continue to work,&rdquo; though he won&rsquo;t detail how.</p><p>Though his first response, when asked what he planned to do after he leaves office, was this:</p><p>&ldquo;I found a great term" on this internet this morning, he said. &ldquo;This is what life will be after three weeks. The word is 'unfuckwithable' and the definition is: 'When you&rsquo;re truly at peace and in touch with yourself, nothing anyone says or does bothers you and no negativity can touch you.'&rdquo;</p><p>Asked if he had any parting words for the US presidential candidates he said, &ldquo;It&rsquo;s for <a href="http://www.cbsnews.com/news/newt-gingrich-trump-would-reconsider-his-obligation-to-nato/">someone else</a>, but: We&rsquo;re not a suburb of St. Petersburg.&rdquo;</p>
+
+
+ <p><small></small></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ]]></content:encoded>
         </item>
         <item>

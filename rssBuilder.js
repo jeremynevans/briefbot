@@ -12,9 +12,14 @@ var feedList = [
     'http://feeds.bbci.co.uk/news/rss.xml?edition=uk',
     'http://www.mirror.co.uk/news/rss.xml',
     'http://blogs.spectator.co.uk/feed/',
-    // 'http://feeds.reuters.com/reuters/UKTopNews',
     'http://www.theweek.co.uk/feeds/all',
     'http://feeds.skynews.com/feeds/rss/home.xml',
+    'https://www.buzzfeed.com/world.xml',
+
+
+    // IMAGES DON'T WORK FOR THESE ONES:
+
+    // 'http://feeds.reuters.com/reuters/UKTopNews',
     // 'http://www.huffingtonpost.co.uk/feeds/verticals/uk-politics/index.xml'
   ];
 //
