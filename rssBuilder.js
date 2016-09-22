@@ -12,10 +12,10 @@ var feedList = [
     'http://feeds.bbci.co.uk/news/rss.xml?edition=uk',
     'http://www.mirror.co.uk/news/rss.xml',
     'http://blogs.spectator.co.uk/feed/',
-    'http://feeds.reuters.com/reuters/UKTopNews',
+    // 'http://feeds.reuters.com/reuters/UKTopNews',
     'http://www.theweek.co.uk/feeds/all',
     'http://feeds.skynews.com/feeds/rss/home.xml',
-    'http://www.huffingtonpost.co.uk/feeds/verticals/uk-politics/index.xml'
+    // 'http://www.huffingtonpost.co.uk/feeds/verticals/uk-politics/index.xml'
   ];
 //
 // var keywords = [
