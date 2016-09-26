@@ -14,6 +14,13 @@ var formula = [
       return getRecencyScore(a);
     },
     operation: 'multiply'
+  },
+  {
+    name: 'blacklist',
+    factorFunction: function(a) {
+      return getBlackListScore(a);
+    },
+    operation: 'multiply'
   }
 ];
 
@@ -38,6 +45,11 @@ var keywords = [
 ];
 
 
+var keywordBlacklist = [
+  
+];
+
+
 
 
 var calcTotalScore = function(article) {
@@ -46,7 +58,7 @@ var calcTotalScore = function(article) {
     var step = formula[i];
     stepScore = step.factorFunction(article);
     if (i == 3 && stepScore > 0) {
-      console.log(step.name + ': ' + stepScore);
+      // console.log(step.name + ': ' + stepScore);
     }
     switch (step.operation) {
       case 'add':
@@ -124,6 +136,18 @@ var getRecencyScore = function(article) {
 
 var getDate = function(article) {
   return article.published;
+}
+
+
+var getBlackListScore = function(article) {
+  for (i in keywordBlacklist) {
+    var keyword = keywordBlacklist[i];
+    if (article.title.toLowerCase().indexOf(keyword) != -1) {
+      console.log(article.title);
+      return 0;
+    }
+  }
+  return 1;
 }
 
 

@@ -47,7 +47,7 @@ var exportFeed = function() {
   sortFeed();
   for (i in finalArticles) {
     article = finalArticles[i];
-    console.log('-- ' + article.title + ': ' + article.score);
+    console.log(Math.round(article.score*10)/10 + ': ' + article.title );
     feed.addItem({
       title:      article.title,
       link:       article.link,
@@ -64,15 +64,21 @@ var exportFeed = function() {
 }
 
 var readFeeds = function(feeds) {
-  var feedCount = 0;
+  var feedCount = 0, exportingNow = false;
+  setTimeout(function () {
+    if (exportingNow == false) {
+      exportingNow = true;
+      exportFeed();
+    }
+  }, 15000)
   for (i in feeds) {
     var feed = feeds[i];
     feedRead(feed, function(err, articles) {
       if (err) throw err;
-      // console.log(articles);
       filterFeed(articles);
       feedCount++;
-      if (feedCount >= feeds.length) {
+      if (feedCount >= feeds.length && exportingNow == false) {
+        exportingNow = true;
         exportFeed();
       }
     });
@@ -143,7 +149,7 @@ var filterFeed = function(feed) {
 
 var sortFeed = function() {
   finalArticles.sort(function(a,b){
-    return new Date(b.score) - new Date(a.score);
+    return b.score - a.score;
   });
 };
 
